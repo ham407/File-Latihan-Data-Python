@@ -1,0 +1,1001 @@
+orderNumber,orderDate,month,productCode,productName,category,quantityOrdered,priceEach
+10100,2003-01-06,1,S18_1749,1917 Grand Touring Sedan,Vintage Cars,30,136
+10100,2003-01-06,1,S18_2248,1911 Ford Town Car,Vintage Cars,50,55.09
+10100,2003-01-06,1,S18_4409,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,22,75.46
+10100,2003-01-06,1,S24_3969,1936 Mercedes Benz 500k Roadster,Vintage Cars,49,35.29
+10101,2003-01-09,1,S18_2325,1932 Model A Ford J-Coupe,Vintage Cars,25,108.06
+10101,2003-01-09,1,S18_2795,1928 Mercedes-Benz SSK,Vintage Cars,26,167.06
+10101,2003-01-09,1,S24_1937,1939 Chevrolet Deluxe Coupe,Vintage Cars,45,32.53
+10101,2003-01-09,1,S24_2022,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,46,44.35
+10102,2003-01-10,1,S18_1342,1937 Lincoln Berline,Vintage Cars,39,95.55
+10102,2003-01-10,1,S18_1367,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,41,43.13
+10103,2003-01-29,1,S10_1949,1952 Alpine Renault 1300,Classic Cars,26,214.3
+10103,2003-01-29,1,S10_4962,1962 LanciaA Delta 16V,Classic Cars,42,119.67
+10103,2003-01-29,1,S12_1666,1958 Setra Bus,Trucks and Buses,27,121.64
+10103,2003-01-29,1,S18_1097,1940 Ford Pickup Truck,Trucks and Buses,35,94.5
+10103,2003-01-29,1,S18_2432,1926 Ford Fire Engine,Trucks and Buses,22,58.34
+10103,2003-01-29,1,S18_2949,1913 Ford Model T Speedster,Vintage Cars,27,92.19
+10103,2003-01-29,1,S18_2957,1934 Ford V8 Coupe,Vintage Cars,35,61.84
+10103,2003-01-29,1,S18_3136,18th Century Vintage Horse Carriage,Vintage Cars,25,86.92
+10103,2003-01-29,1,S18_3320,1917 Maxwell Touring Car,Vintage Cars,46,86.31
+10103,2003-01-29,1,S18_4600,1940s Ford truck,Trucks and Buses,36,98.07
+10103,2003-01-29,1,S18_4668,1939 Cadillac Limousine,Vintage Cars,41,40.75
+10103,2003-01-29,1,S24_2300,1962 Volkswagen Microbus,Trucks and Buses,36,107.34
+10103,2003-01-29,1,S24_4258,1936 Chrysler Airflow,Vintage Cars,25,88.62
+10103,2003-01-29,1,S32_1268,1980’s GM Manhattan Express,Trucks and Buses,31,92.46
+10103,2003-01-29,1,S32_3522,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,45,63.35
+10103,2003-01-29,1,S700_2824,1982 Camaro Z28,Classic Cars,42,94.07
+10104,2003-01-31,1,S12_3148,1969 Corvair Monza,Classic Cars,34,131.44
+10104,2003-01-31,1,S12_4473,1957 Chevy Pickup,Trucks and Buses,41,111.39
+10104,2003-01-31,1,S18_2238,1998 Chrysler Plymouth Prowler,Classic Cars,24,135.9
+10104,2003-01-31,1,S18_2319,1964 Mercedes Tour Bus,Trucks and Buses,29,122.73
+10104,2003-01-31,1,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,23,165.95
+10104,2003-01-31,1,S18_4027,1970 Triumph Spitfire,Classic Cars,38,119.2
+10104,2003-01-31,1,S24_1444,1970 Dodge Coronet,Classic Cars,35,52.02
+10104,2003-01-31,1,S24_2840,1958 Chevy Corvette Limited Edition,Classic Cars,44,30.41
+10104,2003-01-31,1,S24_4048,1992 Porsche Cayenne Turbo Silver,Classic Cars,26,106.45
+10104,2003-01-31,1,S32_2509,1954 Greyhound Scenicruiser,Trucks and Buses,35,51.95
+10104,2003-01-31,1,S32_3207,1950's Chicago Surface Lines Streetcar,Trains,49,56.55
+10104,2003-01-31,1,S50_1392,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,33,114.59
+10104,2003-01-31,1,S50_1514,1962 City of Detroit Streetcar,Trains,32,53.31
+10105,2003-02-11,2,S10_4757,1972 Alfa Romeo GTA,Classic Cars,50,127.84
+10105,2003-02-11,2,S12_1108,2001 Ferrari Enzo,Classic Cars,41,205.72
+10105,2003-02-11,2,S12_3891,1969 Ford Falcon,Classic Cars,29,141.88
+10105,2003-02-11,2,S18_3140,1903 Ford Model A,Vintage Cars,22,136.59
+10105,2003-02-11,2,S18_3259,Collectable Wooden Train,Trains,38,87.73
+10105,2003-02-11,2,S18_4522,1904 Buick Runabout,Vintage Cars,41,75.48
+10105,2003-02-11,2,S24_2011,18th century schooner,Ships,43,117.97
+10105,2003-02-11,2,S24_3151,1912 Ford Model T Delivery Wagon,Vintage Cars,44,73.46
+10105,2003-02-11,2,S24_3816,1940 Ford Delivery Sedan,Vintage Cars,50,75.47
+10105,2003-02-11,2,S700_1138,The Schooner Bluenose,Ships,41,54
+10105,2003-02-11,2,S700_1938,The Mayflower,Ships,29,86.61
+10105,2003-02-11,2,S700_2610,The USS Constitution Ship,Ships,31,60.72
+10105,2003-02-11,2,S700_3505,The Titanic,Ships,39,92.16
+10105,2003-02-11,2,S700_3962,The Queen Mary,Ships,22,99.31
+10105,2003-02-11,2,S72_3212,Pont Yacht,Ships,25,44.77
+10106,2003-02-17,2,S18_1662,1980s Black Hawk Helicopter,Planes,36,134.04
+10106,2003-02-17,2,S18_2581,P-51-D Mustang,Planes,34,81.1
+10106,2003-02-17,2,S18_3029,1999 Yamaha Speed Boat,Ships,41,80.86
+10106,2003-02-17,2,S18_3856,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,41,94.22
+10106,2003-02-17,2,S24_1785,1928 British Royal Navy Airplane,Planes,28,107.23
+10106,2003-02-17,2,S24_2841,1900s Vintage Bi-Plane,Planes,49,65.77
+10106,2003-02-17,2,S24_3420,1937 Horch 930V Limousine,Vintage Cars,31,55.89
+10106,2003-02-17,2,S24_3949,Corsair F4U ( Bird Cage),Planes,50,55.96
+10106,2003-02-17,2,S24_4278,1900s Vintage Tri-Plane,Planes,26,71
+10106,2003-02-17,2,S32_4289,1928 Ford Phaeton Deluxe,Vintage Cars,33,65.35
+10106,2003-02-17,2,S50_1341,1930 Buick Marquette Phaeton,Vintage Cars,39,35.78
+10106,2003-02-17,2,S700_1691,American Airlines: B767-300,Planes,31,91.34
+10106,2003-02-17,2,S700_2047,HMS Bounty,Ships,30,85.09
+10106,2003-02-17,2,S700_2466,America West Airlines B757-200,Planes,34,99.72
+10106,2003-02-17,2,S700_2834,ATA: B757-300,Planes,32,113.9
+10106,2003-02-17,2,S700_3167,F/A 18 Hornet 1/72,Planes,44,76
+10106,2003-02-17,2,S700_4002,American Airlines: MD-11S,Planes,48,70.33
+10106,2003-02-17,2,S72_1253,Boeing X-32A JSF,Planes,48,43.7
+10107,2003-02-24,2,S10_1678,1969 Harley Davidson Ultimate Chopper,Motorcycles,30,81.35
+10107,2003-02-24,2,S10_2016,1996 Moto Guzzi 1100i,Motorcycles,39,105.86
+10107,2003-02-24,2,S10_4698,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,27,172.36
+10107,2003-02-24,2,S12_2823,2002 Suzuki XREO,Motorcycles,21,122
+10107,2003-02-24,2,S18_2625,1936 Harley Davidson El Knucklehead,Motorcycles,29,52.7
+10107,2003-02-24,2,S24_1578,1997 BMW R 1100 S,Motorcycles,25,96.92
+10107,2003-02-24,2,S24_2000,1960 BSA Gold Star DBD34,Motorcycles,38,73.12
+10107,2003-02-24,2,S32_1374,1997 BMW F650 ST,Motorcycles,20,88.9
+10108,2003-03-03,3,S12_1099,1968 Ford Mustang,Classic Cars,33,165.38
+10108,2003-03-03,3,S12_3380,1968 Dodge Charger,Classic Cars,45,96.3
+10108,2003-03-03,3,S12_3990,1970 Plymouth Hemi Cuda,Classic Cars,39,75.81
+10108,2003-03-03,3,S12_4675,1969 Dodge Charger,Classic Cars,36,107.1
+10108,2003-03-03,3,S18_1889,1948 Porsche 356-A Roadster,Classic Cars,38,67.76
+10108,2003-03-03,3,S18_3278,1969 Dodge Super Bee,Classic Cars,26,73.17
+10108,2003-03-03,3,S18_3482,1976 Ford Gran Torino,Classic Cars,29,132.29
+10108,2003-03-03,3,S18_3782,1957 Vespa GS150,Motorcycles,43,52.84
+10108,2003-03-03,3,S18_4721,1957 Corvette Convertible,Classic Cars,44,139.87
+10108,2003-03-03,3,S24_2360,1982 Ducati 900 Monster,Motorcycles,35,64.41
+10108,2003-03-03,3,S24_3371,1971 Alpine Renault 1600s,Classic Cars,30,60.01
+10108,2003-03-03,3,S24_3856,1956 Porsche 356A Coupe,Classic Cars,40,132
+10108,2003-03-03,3,S24_4620,1961 Chevrolet Impala,Classic Cars,31,67.1
+10108,2003-03-03,3,S32_2206,1982 Ducati 996 R,Motorcycles,27,36.21
+10108,2003-03-03,3,S32_4485,1974 Ducati 350 Mk3 Desmo,Motorcycles,31,87.76
+10108,2003-03-03,3,S50_4713,2002 Yamaha YZR M1,Motorcycles,34,74.85
+10109,2003-03-10,3,S18_1129,1993 Mazda RX-7,Classic Cars,26,117.48
+10109,2003-03-10,3,S18_1984,1995 Honda Civic,Classic Cars,38,137.98
+10109,2003-03-10,3,S18_2870,1999 Indy 500 Monte Carlo SS,Classic Cars,26,126.72
+10109,2003-03-10,3,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,46,160.87
+10109,2003-03-10,3,S18_3685,1948 Porsche Type 356 Roadster,Classic Cars,47,125.74
+10109,2003-03-10,3,S24_2972,1982 Lamborghini Diablo,Classic Cars,29,32.1
+10110,2003-03-18,3,S18_1589,1965 Aston Martin DB5,Classic Cars,37,118.22
+10110,2003-03-18,3,S18_1749,1917 Grand Touring Sedan,Vintage Cars,42,153
+10110,2003-03-18,3,S18_2248,1911 Ford Town Car,Vintage Cars,32,51.46
+10110,2003-03-18,3,S18_2325,1932 Model A Ford J-Coupe,Vintage Cars,33,115.69
+10110,2003-03-18,3,S18_2795,1928 Mercedes-Benz SSK,Vintage Cars,31,163.69
+10110,2003-03-18,3,S18_4409,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,28,81.91
+10110,2003-03-18,3,S18_4933,1957 Ford Thunderbird,Classic Cars,42,62
+10110,2003-03-18,3,S24_1046,1970 Chevy Chevelle SS 454,Classic Cars,36,72.02
+10110,2003-03-18,3,S24_1628,1966 Shelby Cobra 427 S/C,Classic Cars,29,43.27
+10110,2003-03-18,3,S24_1937,1939 Chevrolet Deluxe Coupe,Vintage Cars,20,28.88
+10110,2003-03-18,3,S24_2022,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,39,40.77
+10110,2003-03-18,3,S24_2766,1949 Jaguar XK 120,Classic Cars,43,82.69
+10110,2003-03-18,3,S24_2887,1952 Citroen-15CV,Classic Cars,46,112.74
+10110,2003-03-18,3,S24_3191,1969 Chevrolet Camaro Z28,Classic Cars,27,80.47
+10110,2003-03-18,3,S24_3432,2002 Chevy Corvette,Classic Cars,37,96.37
+10110,2003-03-18,3,S24_3969,1936 Mercedes Benz 500k Roadster,Vintage Cars,48,35.29
+10112,2003-03-24,3,S10_1949,1952 Alpine Renault 1300,Classic Cars,29,197.16
+10112,2003-03-24,3,S18_2949,1913 Ford Model T Speedster,Vintage Cars,23,85.1
+10111,2003-03-25,3,S18_1342,1937 Lincoln Berline,Vintage Cars,33,87.33
+10111,2003-03-25,3,S18_1367,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,48,48.52
+10111,2003-03-25,3,S18_2957,1934 Ford V8 Coupe,Vintage Cars,28,53.09
+10111,2003-03-25,3,S18_3136,18th Century Vintage Horse Carriage,Vintage Cars,43,94.25
+10111,2003-03-25,3,S18_3320,1917 Maxwell Touring Car,Vintage Cars,39,91.27
+10111,2003-03-25,3,S24_4258,1936 Chrysler Airflow,Vintage Cars,26,85.7
+10113,2003-03-26,3,S12_1666,1958 Setra Bus,Trucks and Buses,21,121.64
+10113,2003-03-26,3,S18_1097,1940 Ford Pickup Truck,Trucks and Buses,49,101.5
+10113,2003-03-26,3,S18_4668,1939 Cadillac Limousine,Vintage Cars,50,43.27
+10113,2003-03-26,3,S32_3522,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,23,58.82
+10114,2003-04-01,4,S10_4962,1962 LanciaA Delta 16V,Classic Cars,31,128.53
+10114,2003-04-01,4,S18_2319,1964 Mercedes Tour Bus,Trucks and Buses,39,106.78
+10114,2003-04-01,4,S18_2432,1926 Ford Fire Engine,Trucks and Buses,45,53.48
+10114,2003-04-01,4,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,48,169.34
+10114,2003-04-01,4,S18_4600,1940s Ford truck,Trucks and Buses,41,105.34
+10114,2003-04-01,4,S24_2300,1962 Volkswagen Microbus,Trucks and Buses,21,102.23
+10114,2003-04-01,4,S24_2840,1958 Chevy Corvette Limited Edition,Classic Cars,24,28.64
+10114,2003-04-01,4,S32_1268,1980’s GM Manhattan Express,Trucks and Buses,32,88.61
+10114,2003-04-01,4,S32_2509,1954 Greyhound Scenicruiser,Trucks and Buses,28,43.83
+10114,2003-04-01,4,S700_2824,1982 Camaro Z28,Classic Cars,42,82.94
+10115,2003-04-04,4,S12_4473,1957 Chevy Pickup,Trucks and Buses,46,111.39
+10115,2003-04-04,4,S18_2238,1998 Chrysler Plymouth Prowler,Classic Cars,46,140.81
+10115,2003-04-04,4,S24_1444,1970 Dodge Coronet,Classic Cars,47,56.64
+10115,2003-04-04,4,S24_4048,1992 Porsche Cayenne Turbo Silver,Classic Cars,44,106.45
+10115,2003-04-04,4,S50_1392,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,27,100.7
+10116,2003-04-11,4,S32_3207,1950's Chicago Surface Lines Streetcar,Trains,27,60.28
+10117,2003-04-16,4,S12_1108,2001 Ferrari Enzo,Classic Cars,33,195.33
+10117,2003-04-16,4,S12_3148,1969 Corvair Monza,Classic Cars,43,148.06
+10117,2003-04-16,4,S12_3891,1969 Ford Falcon,Classic Cars,39,173.02
+10117,2003-04-16,4,S18_3140,1903 Ford Model A,Vintage Cars,26,121.57
+10117,2003-04-16,4,S18_3259,Collectable Wooden Train,Trains,21,81.68
+10117,2003-04-16,4,S18_4027,1970 Triumph Spitfire,Classic Cars,22,122.08
+10117,2003-04-16,4,S18_4522,1904 Buick Runabout,Vintage Cars,23,73.73
+10117,2003-04-16,4,S24_2011,18th century schooner,Ships,41,119.2
+10117,2003-04-16,4,S50_1514,1962 City of Detroit Streetcar,Trains,21,55.65
+10117,2003-04-16,4,S700_1938,The Mayflower,Ships,38,75.35
+10117,2003-04-16,4,S700_3962,The Queen Mary,Ships,45,89.38
+10117,2003-04-16,4,S72_3212,Pont Yacht,Ships,50,52.42
+10118,2003-04-21,4,S700_3505,The Titanic,Ships,36,86.15
+10119,2003-04-28,4,S10_4757,1972 Alfa Romeo GTA,Classic Cars,46,112.88
+10119,2003-04-28,4,S18_1662,1980s Black Hawk Helicopter,Planes,43,151.38
+10119,2003-04-28,4,S18_3029,1999 Yamaha Speed Boat,Ships,21,74.84
+10119,2003-04-28,4,S18_3856,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,27,95.28
+10119,2003-04-28,4,S24_2841,1900s Vintage Bi-Plane,Planes,41,64.4
+10119,2003-04-28,4,S24_3151,1912 Ford Model T Delivery Wagon,Vintage Cars,35,72.58
+10119,2003-04-28,4,S24_3420,1937 Horch 930V Limousine,Vintage Cars,20,63.12
+10119,2003-04-28,4,S24_3816,1940 Ford Delivery Sedan,Vintage Cars,35,82.18
+10119,2003-04-28,4,S24_3949,Corsair F4U ( Bird Cage),Planes,28,62.1
+10119,2003-04-28,4,S700_1138,The Schooner Bluenose,Ships,25,57.34
+10119,2003-04-28,4,S700_2047,HMS Bounty,Ships,29,74.23
+10119,2003-04-28,4,S700_2610,The USS Constitution Ship,Ships,38,67.22
+10119,2003-04-28,4,S700_4002,American Airlines: MD-11S,Planes,26,63.67
+10119,2003-04-28,4,S72_1253,Boeing X-32A JSF,Planes,28,40.22
+10120,2003-04-29,4,S10_2016,1996 Moto Guzzi 1100i,Motorcycles,29,118.94
+10120,2003-04-29,4,S10_4698,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,46,158.8
+10120,2003-04-29,4,S18_2581,P-51-D Mustang,Planes,29,82.79
+10120,2003-04-29,4,S18_2625,1936 Harley Davidson El Knucklehead,Motorcycles,46,57.54
+10120,2003-04-29,4,S24_1578,1997 BMW R 1100 S,Motorcycles,35,110.45
+10120,2003-04-29,4,S24_1785,1928 British Royal Navy Airplane,Planes,39,93.01
+10120,2003-04-29,4,S24_2000,1960 BSA Gold Star DBD34,Motorcycles,34,72.36
+10120,2003-04-29,4,S24_4278,1900s Vintage Tri-Plane,Planes,29,71.73
+10120,2003-04-29,4,S32_1374,1997 BMW F650 ST,Motorcycles,22,94.9
+10120,2003-04-29,4,S32_4289,1928 Ford Phaeton Deluxe,Vintage Cars,29,68.79
+10120,2003-04-29,4,S50_1341,1930 Buick Marquette Phaeton,Vintage Cars,49,41.46
+10120,2003-04-29,4,S700_1691,American Airlines: B767-300,Planes,47,91.34
+10120,2003-04-29,4,S700_2466,America West Airlines B757-200,Planes,24,81.77
+10120,2003-04-29,4,S700_2834,ATA: B757-300,Planes,24,106.79
+10120,2003-04-29,4,S700_3167,F/A 18 Hornet 1/72,Planes,43,72
+10121,2003-05-07,5,S10_1678,1969 Harley Davidson Ultimate Chopper,Motorcycles,34,86.13
+10121,2003-05-07,5,S12_2823,2002 Suzuki XREO,Motorcycles,50,126.52
+10121,2003-05-07,5,S24_2360,1982 Ducati 900 Monster,Motorcycles,32,58.18
+10121,2003-05-07,5,S32_4485,1974 Ducati 350 Mk3 Desmo,Motorcycles,25,95.93
+10121,2003-05-07,5,S50_4713,2002 Yamaha YZR M1,Motorcycles,44,72.41
+10122,2003-05-08,5,S12_1099,1968 Ford Mustang,Classic Cars,42,155.66
+10122,2003-05-08,5,S12_3380,1968 Dodge Charger,Classic Cars,37,113.92
+10122,2003-05-08,5,S12_3990,1970 Plymouth Hemi Cuda,Classic Cars,32,65.44
+10122,2003-05-08,5,S12_4675,1969 Dodge Charger,Classic Cars,20,104.8
+10122,2003-05-08,5,S18_1129,1993 Mazda RX-7,Classic Cars,34,114.65
+10122,2003-05-08,5,S18_1889,1948 Porsche 356-A Roadster,Classic Cars,43,62.37
+10122,2003-05-08,5,S18_1984,1995 Honda Civic,Classic Cars,31,113.8
+10122,2003-05-08,5,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,25,137.17
+10122,2003-05-08,5,S18_3278,1969 Dodge Super Bee,Classic Cars,21,69.15
+10122,2003-05-08,5,S18_3482,1976 Ford Gran Torino,Classic Cars,21,133.76
+10122,2003-05-08,5,S18_3782,1957 Vespa GS150,Motorcycles,35,59.06
+10122,2003-05-08,5,S18_4721,1957 Corvette Convertible,Classic Cars,28,145.82
+10122,2003-05-08,5,S24_2972,1982 Lamborghini Diablo,Classic Cars,39,34.74
+10122,2003-05-08,5,S24_3371,1971 Alpine Renault 1600s,Classic Cars,34,50.82
+10122,2003-05-08,5,S24_3856,1956 Porsche 356A Coupe,Classic Cars,43,136.22
+10122,2003-05-08,5,S24_4620,1961 Chevrolet Impala,Classic Cars,29,67.1
+10122,2003-05-08,5,S32_2206,1982 Ducati 996 R,Motorcycles,31,33.79
+10123,2003-05-20,5,S18_1589,1965 Aston Martin DB5,Classic Cars,26,120.71
+10123,2003-05-20,5,S18_2870,1999 Indy 500 Monte Carlo SS,Classic Cars,46,114.84
+10123,2003-05-20,5,S18_3685,1948 Porsche Type 356 Roadster,Classic Cars,34,117.26
+10123,2003-05-20,5,S24_1628,1966 Shelby Cobra 427 S/C,Classic Cars,50,43.27
+10124,2003-05-21,5,S18_1749,1917 Grand Touring Sedan,Vintage Cars,21,153
+10124,2003-05-21,5,S18_2248,1911 Ford Town Car,Vintage Cars,42,58.12
+10124,2003-05-21,5,S18_2325,1932 Model A Ford J-Coupe,Vintage Cars,42,111.87
+10124,2003-05-21,5,S18_4409,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,36,75.46
+10124,2003-05-21,5,S18_4933,1957 Ford Thunderbird,Classic Cars,23,66.28
+10124,2003-05-21,5,S24_1046,1970 Chevy Chevelle SS 454,Classic Cars,22,62.47
+10124,2003-05-21,5,S24_1937,1939 Chevrolet Deluxe Coupe,Vintage Cars,45,30.53
+10124,2003-05-21,5,S24_2022,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,22,36.29
+10124,2003-05-21,5,S24_2766,1949 Jaguar XK 120,Classic Cars,32,74.51
+10124,2003-05-21,5,S24_2887,1952 Citroen-15CV,Classic Cars,25,93.95
+10124,2003-05-21,5,S24_3191,1969 Chevrolet Camaro Z28,Classic Cars,49,76.19
+10124,2003-05-21,5,S24_3432,2002 Chevy Corvette,Classic Cars,43,101.73
+10124,2003-05-21,5,S24_3969,1936 Mercedes Benz 500k Roadster,Vintage Cars,46,36.11
+10125,2003-05-21,5,S18_1342,1937 Lincoln Berline,Vintage Cars,32,89.38
+10125,2003-05-21,5,S18_2795,1928 Mercedes-Benz SSK,Vintage Cars,34,138.38
+10126,2003-05-28,5,S10_1949,1952 Alpine Renault 1300,Classic Cars,38,205.73
+10126,2003-05-28,5,S10_4962,1962 LanciaA Delta 16V,Classic Cars,22,122.62
+10126,2003-05-28,5,S12_1666,1958 Setra Bus,Trucks and Buses,21,135.3
+10126,2003-05-28,5,S18_1097,1940 Ford Pickup Truck,Trucks and Buses,38,116.67
+10126,2003-05-28,5,S18_1367,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,42,51.21
+10126,2003-05-28,5,S18_2432,1926 Ford Fire Engine,Trucks and Buses,43,51.05
+10126,2003-05-28,5,S18_2949,1913 Ford Model T Speedster,Vintage Cars,31,93.21
+10126,2003-05-28,5,S18_2957,1934 Ford V8 Coupe,Vintage Cars,46,61.84
+10126,2003-05-28,5,S18_3136,18th Century Vintage Horse Carriage,Vintage Cars,30,93.2
+10126,2003-05-28,5,S18_3320,1917 Maxwell Touring Car,Vintage Cars,38,94.25
+10126,2003-05-28,5,S18_4600,1940s Ford truck,Trucks and Buses,50,102.92
+10126,2003-05-28,5,S18_4668,1939 Cadillac Limousine,Vintage Cars,43,47.29
+10126,2003-05-28,5,S24_2300,1962 Volkswagen Microbus,Trucks and Buses,27,122.68
+10126,2003-05-28,5,S24_4258,1936 Chrysler Airflow,Vintage Cars,34,83.76
+10126,2003-05-28,5,S32_1268,1980’s GM Manhattan Express,Trucks and Buses,43,82.83
+10126,2003-05-28,5,S32_3522,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,26,62.05
+10126,2003-05-28,5,S700_2824,1982 Camaro Z28,Classic Cars,45,97.1
+10127,2003-06-03,6,S12_1108,2001 Ferrari Enzo,Classic Cars,46,193.25
+10127,2003-06-03,6,S12_3148,1969 Corvair Monza,Classic Cars,46,140.5
+10127,2003-06-03,6,S12_3891,1969 Ford Falcon,Classic Cars,42,169.56
+10127,2003-06-03,6,S12_4473,1957 Chevy Pickup,Trucks and Buses,24,100.73
+10127,2003-06-03,6,S18_2238,1998 Chrysler Plymouth Prowler,Classic Cars,45,140.81
+10127,2003-06-03,6,S18_2319,1964 Mercedes Tour Bus,Trucks and Buses,45,114.14
+10127,2003-06-03,6,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,22,149.02
+10127,2003-06-03,6,S18_4027,1970 Triumph Spitfire,Classic Cars,25,126.39
+10127,2003-06-03,6,S24_1444,1970 Dodge Coronet,Classic Cars,20,50.86
+10127,2003-06-03,6,S24_2840,1958 Chevy Corvette Limited Edition,Classic Cars,39,34.3
+10127,2003-06-03,6,S24_4048,1992 Porsche Cayenne Turbo Silver,Classic Cars,20,107.63
+10127,2003-06-03,6,S32_2509,1954 Greyhound Scenicruiser,Trucks and Buses,45,46.53
+10127,2003-06-03,6,S32_3207,1950's Chicago Surface Lines Streetcar,Trains,29,60.9
+10127,2003-06-03,6,S50_1392,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,46,111.12
+10127,2003-06-03,6,S50_1514,1962 City of Detroit Streetcar,Trains,46,55.65
+10128,2003-06-06,6,S18_3140,1903 Ford Model A,Vintage Cars,41,120.2
+10128,2003-06-06,6,S18_3259,Collectable Wooden Train,Trains,41,80.67
+10128,2003-06-06,6,S18_4522,1904 Buick Runabout,Vintage Cars,43,77.24
+10128,2003-06-06,6,S700_1938,The Mayflower,Ships,32,72.75
+10129,2003-06-12,6,S10_4757,1972 Alfa Romeo GTA,Classic Cars,33,123.76
+10129,2003-06-12,6,S24_2011,18th century schooner,Ships,45,113.06
+10129,2003-06-12,6,S24_3151,1912 Ford Model T Delivery Wagon,Vintage Cars,41,81.43
+10129,2003-06-12,6,S24_3816,1940 Ford Delivery Sedan,Vintage Cars,50,76.31
+10129,2003-06-12,6,S700_1138,The Schooner Bluenose,Ships,31,58.67
+10129,2003-06-12,6,S700_2610,The USS Constitution Ship,Ships,45,72.28
+10129,2003-06-12,6,S700_3505,The Titanic,Ships,42,90.15
+10129,2003-06-12,6,S700_3962,The Queen Mary,Ships,30,94.34
+10129,2003-06-12,6,S72_3212,Pont Yacht,Ships,32,44.23
+10130,2003-06-16,6,S18_3029,1999 Yamaha Speed Boat,Ships,40,68.82
+10130,2003-06-16,6,S18_3856,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,33,99.52
+10131,2003-06-16,6,S18_1662,1980s Black Hawk Helicopter,Planes,21,141.92
+10131,2003-06-16,6,S24_2841,1900s Vintage Bi-Plane,Planes,35,60.97
+10131,2003-06-16,6,S24_3420,1937 Horch 930V Limousine,Vintage Cars,29,52.6
+10131,2003-06-16,6,S24_3949,Corsair F4U ( Bird Cage),Planes,50,54.59
+10131,2003-06-16,6,S700_2047,HMS Bounty,Ships,22,76.94
+10131,2003-06-16,6,S700_2466,America West Airlines B757-200,Planes,40,86.76
+10131,2003-06-16,6,S700_4002,American Airlines: MD-11S,Planes,26,63.67
+10131,2003-06-16,6,S72_1253,Boeing X-32A JSF,Planes,21,40.22
+10132,2003-06-25,6,S700_3167,F/A 18 Hornet 1/72,Planes,36,80
+10133,2003-06-27,6,S18_2581,P-51-D Mustang,Planes,49,80.26
+10133,2003-06-27,6,S24_1785,1928 British Royal Navy Airplane,Planes,41,109.42
+10133,2003-06-27,6,S24_4278,1900s Vintage Tri-Plane,Planes,46,61.58
+10133,2003-06-27,6,S32_1374,1997 BMW F650 ST,Motorcycles,23,80.91
+10133,2003-06-27,6,S32_4289,1928 Ford Phaeton Deluxe,Vintage Cars,49,67.41
+10133,2003-06-27,6,S50_1341,1930 Buick Marquette Phaeton,Vintage Cars,27,37.09
+10133,2003-06-27,6,S700_1691,American Airlines: B767-300,Planes,24,76.73
+10133,2003-06-27,6,S700_2834,ATA: B757-300,Planes,27,115.09
+10134,2003-07-01,7,S10_1678,1969 Harley Davidson Ultimate Chopper,Motorcycles,41,90.92
+10134,2003-07-01,7,S10_2016,1996 Moto Guzzi 1100i,Motorcycles,27,116.56
+10134,2003-07-01,7,S10_4698,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,31,187.85
+10134,2003-07-01,7,S12_2823,2002 Suzuki XREO,Motorcycles,20,131.04
+10134,2003-07-01,7,S18_2625,1936 Harley Davidson El Knucklehead,Motorcycles,30,51.48
+10134,2003-07-01,7,S24_1578,1997 BMW R 1100 S,Motorcycles,35,94.67
+10134,2003-07-01,7,S24_2000,1960 BSA Gold Star DBD34,Motorcycles,43,75.41
+10135,2003-07-02,7,S12_1099,1968 Ford Mustang,Classic Cars,42,173.17
+10135,2003-07-02,7,S12_3380,1968 Dodge Charger,Classic Cars,48,110.39
+10135,2003-07-02,7,S12_3990,1970 Plymouth Hemi Cuda,Classic Cars,24,72.62
+10135,2003-07-02,7,S12_4675,1969 Dodge Charger,Classic Cars,29,103.64
+10135,2003-07-02,7,S18_1889,1948 Porsche 356-A Roadster,Classic Cars,48,66.99
+10135,2003-07-02,7,S18_3278,1969 Dodge Super Bee,Classic Cars,45,65.94
+10135,2003-07-02,7,S18_3482,1976 Ford Gran Torino,Classic Cars,42,139.64
+10135,2003-07-02,7,S18_3782,1957 Vespa GS150,Motorcycles,45,49.74
+10135,2003-07-02,7,S18_4721,1957 Corvette Convertible,Classic Cars,31,133.92
+10135,2003-07-02,7,S24_2360,1982 Ducati 900 Monster,Motorcycles,29,67.18
+10135,2003-07-02,7,S24_2972,1982 Lamborghini Diablo,Classic Cars,20,34.36
+10135,2003-07-02,7,S24_3371,1971 Alpine Renault 1600s,Classic Cars,27,52.05
+10135,2003-07-02,7,S24_3856,1956 Porsche 356A Coupe,Classic Cars,47,139.03
+10135,2003-07-02,7,S24_4620,1961 Chevrolet Impala,Classic Cars,23,76.8
+10135,2003-07-02,7,S32_2206,1982 Ducati 996 R,Motorcycles,33,38.62
+10135,2003-07-02,7,S32_4485,1974 Ducati 350 Mk3 Desmo,Motorcycles,30,91.85
+10135,2003-07-02,7,S50_4713,2002 Yamaha YZR M1,Motorcycles,44,78.92
+10136,2003-07-04,7,S18_1129,1993 Mazda RX-7,Classic Cars,25,117.48
+10136,2003-07-04,7,S18_1984,1995 Honda Civic,Classic Cars,36,120.91
+10136,2003-07-04,7,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,41,169.34
+10138,2003-07-07,7,S18_1749,1917 Grand Touring Sedan,Vintage Cars,33,149.6
+10138,2003-07-07,7,S18_2248,1911 Ford Town Car,Vintage Cars,22,51.46
+10138,2003-07-07,7,S18_2325,1932 Model A Ford J-Coupe,Vintage Cars,38,114.42
+10138,2003-07-07,7,S18_4409,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,47,79.15
+10138,2003-07-07,7,S18_4933,1957 Ford Thunderbird,Classic Cars,23,64.86
+10138,2003-07-07,7,S24_1046,1970 Chevy Chevelle SS 454,Classic Cars,45,59.53
+10138,2003-07-07,7,S24_1937,1939 Chevrolet Deluxe Coupe,Vintage Cars,22,33.19
+10138,2003-07-07,7,S24_2022,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,33,38.53
+10138,2003-07-07,7,S24_2766,1949 Jaguar XK 120,Classic Cars,28,73.6
+10138,2003-07-07,7,S24_2887,1952 Citroen-15CV,Classic Cars,30,96.3
+10138,2003-07-07,7,S24_3191,1969 Chevrolet Camaro Z28,Classic Cars,49,77.05
+10138,2003-07-07,7,S24_3432,2002 Chevy Corvette,Classic Cars,21,99.58
+10138,2003-07-07,7,S24_3969,1936 Mercedes Benz 500k Roadster,Vintage Cars,29,32.82
+10137,2003-07-10,7,S18_1589,1965 Aston Martin DB5,Classic Cars,44,115.73
+10137,2003-07-10,7,S18_2870,1999 Indy 500 Monte Carlo SS,Classic Cars,37,110.88
+10137,2003-07-10,7,S18_3685,1948 Porsche Type 356 Roadster,Classic Cars,31,118.68
+10137,2003-07-10,7,S24_1628,1966 Shelby Cobra 427 S/C,Classic Cars,26,40.25
+10139,2003-07-16,7,S18_1342,1937 Lincoln Berline,Vintage Cars,31,89.38
+10139,2003-07-16,7,S18_1367,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,49,52.83
+10139,2003-07-16,7,S18_2795,1928 Mercedes-Benz SSK,Vintage Cars,41,151.88
+10139,2003-07-16,7,S18_2949,1913 Ford Model T Speedster,Vintage Cars,46,91.18
+10139,2003-07-16,7,S18_2957,1934 Ford V8 Coupe,Vintage Cars,20,52.47
+10139,2003-07-16,7,S18_3136,18th Century Vintage Horse Carriage,Vintage Cars,20,101.58
+10139,2003-07-16,7,S18_3320,1917 Maxwell Touring Car,Vintage Cars,30,81.35
+10139,2003-07-16,7,S24_4258,1936 Chrysler Airflow,Vintage Cars,29,93.49
+10140,2003-07-24,7,S10_1949,1952 Alpine Renault 1300,Classic Cars,37,186.44
+10140,2003-07-24,7,S10_4962,1962 LanciaA Delta 16V,Classic Cars,26,131.49
+10140,2003-07-24,7,S12_1666,1958 Setra Bus,Trucks and Buses,38,118.9
+10140,2003-07-24,7,S18_1097,1940 Ford Pickup Truck,Trucks and Buses,32,95.67
+10140,2003-07-24,7,S18_2432,1926 Ford Fire Engine,Trucks and Buses,46,51.05
+10140,2003-07-24,7,S18_4600,1940s Ford truck,Trucks and Buses,40,100.5
+10140,2003-07-24,7,S18_4668,1939 Cadillac Limousine,Vintage Cars,29,40.25
+10140,2003-07-24,7,S24_2300,1962 Volkswagen Microbus,Trucks and Buses,47,118.84
+10140,2003-07-24,7,S32_1268,1980’s GM Manhattan Express,Trucks and Buses,26,87.64
+10140,2003-07-24,7,S32_3522,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,28,62.05
+10140,2003-07-24,7,S700_2824,1982 Camaro Z28,Classic Cars,36,101.15
+10141,2003-08-01,8,S12_4473,1957 Chevy Pickup,Trucks and Buses,21,114.95
+10141,2003-08-01,8,S18_2238,1998 Chrysler Plymouth Prowler,Classic Cars,39,160.46
+10141,2003-08-01,8,S18_2319,1964 Mercedes Tour Bus,Trucks and Buses,47,103.09
+10141,2003-08-01,8,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,34,143.94
+10141,2003-08-01,8,S24_1444,1970 Dodge Coronet,Classic Cars,20,50.86
+10141,2003-08-01,8,S24_2840,1958 Chevy Corvette Limited Edition,Classic Cars,21,32.18
+10141,2003-08-01,8,S24_4048,1992 Porsche Cayenne Turbo Silver,Classic Cars,40,104.09
+10141,2003-08-01,8,S32_2509,1954 Greyhound Scenicruiser,Trucks and Buses,24,53.03
+10141,2003-08-01,8,S50_1392,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,44,94.92
+10142,2003-08-08,8,S12_1108,2001 Ferrari Enzo,Classic Cars,33,166.24
+10142,2003-08-08,8,S12_3148,1969 Corvair Monza,Classic Cars,33,140.5
+10142,2003-08-08,8,S12_3891,1969 Ford Falcon,Classic Cars,46,167.83
+10142,2003-08-08,8,S18_3140,1903 Ford Model A,Vintage Cars,47,129.76
+10142,2003-08-08,8,S18_3259,Collectable Wooden Train,Trains,22,95.8
+10142,2003-08-08,8,S18_4027,1970 Triumph Spitfire,Classic Cars,24,122.08
+10142,2003-08-08,8,S18_4522,1904 Buick Runabout,Vintage Cars,24,79.87
+10142,2003-08-08,8,S24_2011,18th century schooner,Ships,33,114.29
+10142,2003-08-08,8,S24_3151,1912 Ford Model T Delivery Wagon,Vintage Cars,49,74.35
+10142,2003-08-08,8,S32_3207,1950's Chicago Surface Lines Streetcar,Trains,42,60.9
+10142,2003-08-08,8,S50_1514,1962 City of Detroit Streetcar,Trains,42,56.24
+10142,2003-08-08,8,S700_1138,The Schooner Bluenose,Ships,41,55.34
+10142,2003-08-08,8,S700_1938,The Mayflower,Ships,43,77.08
+10142,2003-08-08,8,S700_3505,The Titanic,Ships,21,92.16
+10142,2003-08-08,8,S700_3962,The Queen Mary,Ships,38,91.37
+10142,2003-08-08,8,S72_3212,Pont Yacht,Ships,39,46.96
+10143,2003-08-10,8,S10_4757,1972 Alfa Romeo GTA,Classic Cars,49,133.28
+10143,2003-08-10,8,S18_1662,1980s Black Hawk Helicopter,Planes,32,126.15
+10143,2003-08-10,8,S18_3029,1999 Yamaha Speed Boat,Ships,46,70.54
+10143,2003-08-10,8,S18_3856,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,34,99.52
+10143,2003-08-10,8,S24_2841,1900s Vintage Bi-Plane,Planes,27,63.71
+10143,2003-08-10,8,S24_3420,1937 Horch 930V Limousine,Vintage Cars,33,59.83
+10143,2003-08-10,8,S24_3816,1940 Ford Delivery Sedan,Vintage Cars,23,74.64
+10143,2003-08-10,8,S24_3949,Corsair F4U ( Bird Cage),Planes,28,55.96
+10143,2003-08-10,8,S50_1341,1930 Buick Marquette Phaeton,Vintage Cars,34,34.91
+10143,2003-08-10,8,S700_1691,American Airlines: B767-300,Planes,36,86.77
+10143,2003-08-10,8,S700_2047,HMS Bounty,Ships,26,87.8
+10143,2003-08-10,8,S700_2466,America West Airlines B757-200,Planes,26,79.78
+10143,2003-08-10,8,S700_2610,The USS Constitution Ship,Ships,31,69.39
+10143,2003-08-10,8,S700_3167,F/A 18 Hornet 1/72,Planes,28,70.4
+10143,2003-08-10,8,S700_4002,American Airlines: MD-11S,Planes,34,65.15
+10143,2003-08-10,8,S72_1253,Boeing X-32A JSF,Planes,37,49.66
+10144,2003-08-13,8,S32_4289,1928 Ford Phaeton Deluxe,Vintage Cars,20,56.41
+10145,2003-08-25,8,S10_1678,1969 Harley Davidson Ultimate Chopper,Motorcycles,45,76.56
+10145,2003-08-25,8,S10_2016,1996 Moto Guzzi 1100i,Motorcycles,37,104.67
+10145,2003-08-25,8,S10_4698,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,33,154.93
+10145,2003-08-25,8,S12_2823,2002 Suzuki XREO,Motorcycles,49,146.1
+10145,2003-08-25,8,S18_2581,P-51-D Mustang,Planes,30,71.81
+10145,2003-08-25,8,S18_2625,1936 Harley Davidson El Knucklehead,Motorcycles,30,52.7
+10145,2003-08-25,8,S24_1578,1997 BMW R 1100 S,Motorcycles,43,103.68
+10145,2003-08-25,8,S24_1785,1928 British Royal Navy Airplane,Planes,40,87.54
+10145,2003-08-25,8,S24_2000,1960 BSA Gold Star DBD34,Motorcycles,47,63.98
+10145,2003-08-25,8,S24_2360,1982 Ducati 900 Monster,Motorcycles,27,56.1
+10145,2003-08-25,8,S24_4278,1900s Vintage Tri-Plane,Planes,33,71.73
+10145,2003-08-25,8,S32_1374,1997 BMW F650 ST,Motorcycles,33,99.89
+10145,2003-08-25,8,S32_2206,1982 Ducati 996 R,Motorcycles,31,39.43
+10145,2003-08-25,8,S32_4485,1974 Ducati 350 Mk3 Desmo,Motorcycles,27,95.93
+10145,2003-08-25,8,S50_4713,2002 Yamaha YZR M1,Motorcycles,38,73.22
+10145,2003-08-25,8,S700_2834,ATA: B757-300,Planes,20,113.9
+10146,2003-09-03,9,S18_3782,1957 Vespa GS150,Motorcycles,47,60.3
+10146,2003-09-03,9,S18_4721,1957 Corvette Convertible,Classic Cars,29,130.94
+10147,2003-09-05,9,S12_1099,1968 Ford Mustang,Classic Cars,48,161.49
+10147,2003-09-05,9,S12_3380,1968 Dodge Charger,Classic Cars,31,110.39
+10147,2003-09-05,9,S12_3990,1970 Plymouth Hemi Cuda,Classic Cars,21,74.21
+10147,2003-09-05,9,S12_4675,1969 Dodge Charger,Classic Cars,33,97.89
+10147,2003-09-05,9,S18_1889,1948 Porsche 356-A Roadster,Classic Cars,26,70.84
+10147,2003-09-05,9,S18_3278,1969 Dodge Super Bee,Classic Cars,36,74.78
+10147,2003-09-05,9,S18_3482,1976 Ford Gran Torino,Classic Cars,37,129.35
+10147,2003-09-05,9,S24_2972,1982 Lamborghini Diablo,Classic Cars,25,33.23
+10147,2003-09-05,9,S24_3371,1971 Alpine Renault 1600s,Classic Cars,30,48.98
+10147,2003-09-05,9,S24_3856,1956 Porsche 356A Coupe,Classic Cars,23,123.58
+10147,2003-09-05,9,S24_4620,1961 Chevrolet Impala,Classic Cars,31,72.76
+10148,2003-09-11,9,S18_1129,1993 Mazda RX-7,Classic Cars,23,114.65
+10148,2003-09-11,9,S18_1589,1965 Aston Martin DB5,Classic Cars,47,108.26
+10148,2003-09-11,9,S18_1984,1995 Honda Civic,Classic Cars,25,136.56
+10148,2003-09-11,9,S18_2870,1999 Indy 500 Monte Carlo SS,Classic Cars,27,113.52
+10148,2003-09-11,9,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,32,143.94
+10148,2003-09-11,9,S18_3685,1948 Porsche Type 356 Roadster,Classic Cars,28,135.63
+10148,2003-09-11,9,S18_4409,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,34,83.75
+10148,2003-09-11,9,S18_4933,1957 Ford Thunderbird,Classic Cars,29,66.28
+10148,2003-09-11,9,S24_1046,1970 Chevy Chevelle SS 454,Classic Cars,25,65.41
+10148,2003-09-11,9,S24_1628,1966 Shelby Cobra 427 S/C,Classic Cars,47,46.29
+10148,2003-09-11,9,S24_2766,1949 Jaguar XK 120,Classic Cars,21,77.24
+10148,2003-09-11,9,S24_2887,1952 Citroen-15CV,Classic Cars,34,115.09
+10148,2003-09-11,9,S24_3191,1969 Chevrolet Camaro Z28,Classic Cars,31,71.91
+10148,2003-09-11,9,S24_3432,2002 Chevy Corvette,Classic Cars,27,96.37
+10149,2003-09-12,9,S18_1342,1937 Lincoln Berline,Vintage Cars,50,87.33
+10149,2003-09-12,9,S18_1367,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,30,48.52
+10149,2003-09-12,9,S18_1749,1917 Grand Touring Sedan,Vintage Cars,34,156.4
+10149,2003-09-12,9,S18_2248,1911 Ford Town Car,Vintage Cars,24,50.85
+10149,2003-09-12,9,S18_2325,1932 Model A Ford J-Coupe,Vintage Cars,33,125.86
+10149,2003-09-12,9,S18_2795,1928 Mercedes-Benz SSK,Vintage Cars,23,167.06
+10149,2003-09-12,9,S18_3320,1917 Maxwell Touring Car,Vintage Cars,42,89.29
+10149,2003-09-12,9,S24_1937,1939 Chevrolet Deluxe Coupe,Vintage Cars,36,31.2
+10149,2003-09-12,9,S24_2022,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,49,39.87
+10149,2003-09-12,9,S24_3969,1936 Mercedes Benz 500k Roadster,Vintage Cars,26,38.57
+10149,2003-09-12,9,S24_4258,1936 Chrysler Airflow,Vintage Cars,20,90.57
+10150,2003-09-19,9,S10_1949,1952 Alpine Renault 1300,Classic Cars,45,182.16
+10150,2003-09-19,9,S10_4962,1962 LanciaA Delta 16V,Classic Cars,20,121.15
+10150,2003-09-19,9,S12_1666,1958 Setra Bus,Trucks and Buses,30,135.3
+10150,2003-09-19,9,S18_1097,1940 Ford Pickup Truck,Trucks and Buses,34,95.67
+10150,2003-09-19,9,S18_2949,1913 Ford Model T Speedster,Vintage Cars,47,93.21
+10150,2003-09-19,9,S18_2957,1934 Ford V8 Coupe,Vintage Cars,30,56.21
+10150,2003-09-19,9,S18_3136,18th Century Vintage Horse Carriage,Vintage Cars,26,97.39
+10150,2003-09-19,9,S18_4600,1940s Ford truck,Trucks and Buses,49,111.39
+10150,2003-09-19,9,S18_4668,1939 Cadillac Limousine,Vintage Cars,30,47.29
+10150,2003-09-19,9,S32_3522,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,49,62.05
+10150,2003-09-19,9,S700_2824,1982 Camaro Z28,Classic Cars,20,95.08
+10151,2003-09-21,9,S12_4473,1957 Chevy Pickup,Trucks and Buses,24,114.95
+10151,2003-09-21,9,S18_2238,1998 Chrysler Plymouth Prowler,Classic Cars,43,152.27
+10151,2003-09-21,9,S18_2319,1964 Mercedes Tour Bus,Trucks and Buses,49,106.78
+10151,2003-09-21,9,S18_2432,1926 Ford Fire Engine,Trucks and Buses,39,58.34
+10151,2003-09-21,9,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,21,167.65
+10151,2003-09-21,9,S24_2300,1962 Volkswagen Microbus,Trucks and Buses,42,109.9
+10151,2003-09-21,9,S24_2840,1958 Chevy Corvette Limited Edition,Classic Cars,30,29.35
+10151,2003-09-21,9,S32_1268,1980’s GM Manhattan Express,Trucks and Buses,27,84.75
+10151,2003-09-21,9,S32_2509,1954 Greyhound Scenicruiser,Trucks and Buses,41,43.29
+10151,2003-09-21,9,S50_1392,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,26,108.81
+10152,2003-09-25,9,S18_4027,1970 Triumph Spitfire,Classic Cars,35,117.77
+10152,2003-09-25,9,S24_1444,1970 Dodge Coronet,Classic Cars,25,49.13
+10152,2003-09-25,9,S24_4048,1992 Porsche Cayenne Turbo Silver,Classic Cars,23,112.37
+10152,2003-09-25,9,S32_3207,1950's Chicago Surface Lines Streetcar,Trains,33,57.17
+10153,2003-09-28,9,S12_1108,2001 Ferrari Enzo,Classic Cars,20,201.57
+10153,2003-09-28,9,S12_3148,1969 Corvair Monza,Classic Cars,42,128.42
+10153,2003-09-28,9,S12_3891,1969 Ford Falcon,Classic Cars,49,155.72
+10153,2003-09-28,9,S18_3140,1903 Ford Model A,Vintage Cars,31,125.66
+10153,2003-09-28,9,S18_3259,Collectable Wooden Train,Trains,29,82.69
+10153,2003-09-28,9,S18_4522,1904 Buick Runabout,Vintage Cars,22,82.5
+10153,2003-09-28,9,S24_2011,18th century schooner,Ships,40,111.83
+10153,2003-09-28,9,S50_1514,1962 City of Detroit Streetcar,Trains,31,53.31
+10153,2003-09-28,9,S700_1138,The Schooner Bluenose,Ships,43,58
+10153,2003-09-28,9,S700_1938,The Mayflower,Ships,31,80.55
+10153,2003-09-28,9,S700_3505,The Titanic,Ships,50,87.15
+10153,2003-09-28,9,S700_3962,The Queen Mary,Ships,20,85.41
+10153,2003-09-28,9,S72_3212,Pont Yacht,Ships,50,51.87
+10154,2003-10-02,10,S24_3151,1912 Ford Model T Delivery Wagon,Vintage Cars,31,75.23
+10154,2003-10-02,10,S700_2610,The USS Constitution Ship,Ships,36,59.27
+10300,2003-10-04,10,S12_1099,1968 Ford Mustang,Classic Cars,33,184.84
+10300,2003-10-04,10,S12_3380,1968 Dodge Charger,Classic Cars,29,116.27
+10300,2003-10-04,10,S12_3990,1970 Plymouth Hemi Cuda,Classic Cars,22,76.61
+10300,2003-10-04,10,S12_4675,1969 Dodge Charger,Classic Cars,23,95.58
+10300,2003-10-04,10,S18_1889,1948 Porsche 356-A Roadster,Classic Cars,41,63.14
+10300,2003-10-04,10,S18_3278,1969 Dodge Super Bee,Classic Cars,49,65.94
+10300,2003-10-04,10,S18_3482,1976 Ford Gran Torino,Classic Cars,23,144.05
+10300,2003-10-04,10,S24_3371,1971 Alpine Renault 1600s,Classic Cars,31,52.05
+10301,2003-10-05,10,S18_1129,1993 Mazda RX-7,Classic Cars,37,114.65
+10301,2003-10-05,10,S18_1589,1965 Aston Martin DB5,Classic Cars,32,118.22
+10301,2003-10-05,10,S18_1984,1995 Honda Civic,Classic Cars,47,119.49
+10301,2003-10-05,10,S18_2870,1999 Indy 500 Monte Carlo SS,Classic Cars,22,113.52
+10301,2003-10-05,10,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,23,135.47
+10301,2003-10-05,10,S18_3685,1948 Porsche Type 356 Roadster,Classic Cars,39,137.04
+10301,2003-10-05,10,S24_1046,1970 Chevy Chevelle SS 454,Classic Cars,27,64.67
+10301,2003-10-05,10,S24_1628,1966 Shelby Cobra 427 S/C,Classic Cars,22,40.75
+10301,2003-10-05,10,S24_2972,1982 Lamborghini Diablo,Classic Cars,48,32.1
+10301,2003-10-05,10,S24_3432,2002 Chevy Corvette,Classic Cars,22,86.73
+10301,2003-10-05,10,S24_3856,1956 Porsche 356A Coupe,Classic Cars,50,122.17
+10155,2003-10-06,10,S10_4757,1972 Alfa Romeo GTA,Classic Cars,32,129.2
+10155,2003-10-06,10,S18_1662,1980s Black Hawk Helicopter,Planes,38,138.77
+10155,2003-10-06,10,S18_3029,1999 Yamaha Speed Boat,Ships,44,83.44
+10155,2003-10-06,10,S18_3856,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,29,105.87
+10155,2003-10-06,10,S24_2841,1900s Vintage Bi-Plane,Planes,23,62.34
+10155,2003-10-06,10,S24_3420,1937 Horch 930V Limousine,Vintage Cars,34,56.55
+10155,2003-10-06,10,S24_3816,1940 Ford Delivery Sedan,Vintage Cars,37,76.31
+10155,2003-10-06,10,S24_3949,Corsair F4U ( Bird Cage),Planes,44,58.69
+10155,2003-10-06,10,S700_2047,HMS Bounty,Ships,32,89.61
+10155,2003-10-06,10,S700_2466,America West Airlines B757-200,Planes,20,87.75
+10155,2003-10-06,10,S700_3167,F/A 18 Hornet 1/72,Planes,43,76.8
+10155,2003-10-06,10,S700_4002,American Airlines: MD-11S,Planes,44,70.33
+10155,2003-10-06,10,S72_1253,Boeing X-32A JSF,Planes,34,49.16
+10302,2003-10-06,10,S18_1749,1917 Grand Touring Sedan,Vintage Cars,43,166.6
+10302,2003-10-06,10,S18_4409,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,38,82.83
+10302,2003-10-06,10,S18_4933,1957 Ford Thunderbird,Classic Cars,23,70.56
+10302,2003-10-06,10,S24_2766,1949 Jaguar XK 120,Classic Cars,49,75.42
+10302,2003-10-06,10,S24_2887,1952 Citroen-15CV,Classic Cars,45,104.52
+10302,2003-10-06,10,S24_3191,1969 Chevrolet Camaro Z28,Classic Cars,48,74.48
+10156,2003-10-08,10,S50_1341,1930 Buick Marquette Phaeton,Vintage Cars,20,43.64
+10156,2003-10-08,10,S700_1691,American Airlines: B767-300,Planes,48,77.64
+10157,2003-10-09,10,S18_2581,P-51-D Mustang,Planes,33,69.27
+10157,2003-10-09,10,S24_1785,1928 British Royal Navy Airplane,Planes,40,89.72
+10157,2003-10-09,10,S24_4278,1900s Vintage Tri-Plane,Planes,33,66.65
+10157,2003-10-09,10,S32_1374,1997 BMW F650 ST,Motorcycles,34,83.91
+10157,2003-10-09,10,S32_4289,1928 Ford Phaeton Deluxe,Vintage Cars,28,56.41
+10157,2003-10-09,10,S700_2834,ATA: B757-300,Planes,48,109.16
+10158,2003-10-10,10,S24_2000,1960 BSA Gold Star DBD34,Motorcycles,22,67.79
+10159,2003-10-10,10,S10_1678,1969 Harley Davidson Ultimate Chopper,Motorcycles,49,81.35
+10159,2003-10-10,10,S10_2016,1996 Moto Guzzi 1100i,Motorcycles,37,101.1
+10159,2003-10-10,10,S10_4698,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,22,170.42
+10159,2003-10-10,10,S12_1099,1968 Ford Mustang,Classic Cars,41,188.73
+10159,2003-10-10,10,S12_2823,2002 Suzuki XREO,Motorcycles,38,131.04
+10159,2003-10-10,10,S12_3990,1970 Plymouth Hemi Cuda,Classic Cars,24,67.03
+10159,2003-10-10,10,S18_2625,1936 Harley Davidson El Knucklehead,Motorcycles,42,51.48
+10159,2003-10-10,10,S18_3278,1969 Dodge Super Bee,Classic Cars,21,66.74
+10159,2003-10-10,10,S18_3482,1976 Ford Gran Torino,Classic Cars,25,129.35
+10159,2003-10-10,10,S18_3782,1957 Vespa GS150,Motorcycles,21,54.71
+10159,2003-10-10,10,S18_4721,1957 Corvette Convertible,Classic Cars,32,142.85
+10159,2003-10-10,10,S24_1578,1997 BMW R 1100 S,Motorcycles,44,100.3
+10159,2003-10-10,10,S24_2360,1982 Ducati 900 Monster,Motorcycles,27,67.18
+10159,2003-10-10,10,S24_3371,1971 Alpine Renault 1600s,Classic Cars,50,49.6
+10159,2003-10-10,10,S24_4620,1961 Chevrolet Impala,Classic Cars,23,80.84
+10159,2003-10-10,10,S32_2206,1982 Ducati 996 R,Motorcycles,35,39.43
+10159,2003-10-10,10,S32_4485,1974 Ducati 350 Mk3 Desmo,Motorcycles,23,86.74
+10159,2003-10-10,10,S50_4713,2002 Yamaha YZR M1,Motorcycles,31,78.11
+10160,2003-10-11,10,S12_3380,1968 Dodge Charger,Classic Cars,46,96.3
+10160,2003-10-11,10,S12_4675,1969 Dodge Charger,Classic Cars,50,93.28
+10160,2003-10-11,10,S18_1889,1948 Porsche 356-A Roadster,Classic Cars,38,70.84
+10160,2003-10-11,10,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,20,140.55
+10160,2003-10-11,10,S24_2972,1982 Lamborghini Diablo,Classic Cars,42,30.59
+10160,2003-10-11,10,S24_3856,1956 Porsche 356A Coupe,Classic Cars,35,130.6
+10161,2003-10-17,10,S18_1129,1993 Mazda RX-7,Classic Cars,28,121.72
+10161,2003-10-17,10,S18_1589,1965 Aston Martin DB5,Classic Cars,43,102.04
+10161,2003-10-17,10,S18_1984,1995 Honda Civic,Classic Cars,48,139.41
+10161,2003-10-17,10,S18_2870,1999 Indy 500 Monte Carlo SS,Classic Cars,23,125.4
+10161,2003-10-17,10,S18_3685,1948 Porsche Type 356 Roadster,Classic Cars,36,132.8
+10161,2003-10-17,10,S18_4933,1957 Ford Thunderbird,Classic Cars,25,62.72
+10161,2003-10-17,10,S24_1046,1970 Chevy Chevelle SS 454,Classic Cars,37,73.49
+10161,2003-10-17,10,S24_1628,1966 Shelby Cobra 427 S/C,Classic Cars,23,47.29
+10161,2003-10-17,10,S24_2766,1949 Jaguar XK 120,Classic Cars,20,82.69
+10161,2003-10-17,10,S24_2887,1952 Citroen-15CV,Classic Cars,25,108.04
+10161,2003-10-17,10,S24_3191,1969 Chevrolet Camaro Z28,Classic Cars,20,72.77
+10161,2003-10-17,10,S24_3432,2002 Chevy Corvette,Classic Cars,30,94.23
+10162,2003-10-18,10,S18_1342,1937 Lincoln Berline,Vintage Cars,48,87.33
+10162,2003-10-18,10,S18_1367,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,45,45.28
+10162,2003-10-18,10,S18_1749,1917 Grand Touring Sedan,Vintage Cars,29,141.1
+10162,2003-10-18,10,S18_2248,1911 Ford Town Car,Vintage Cars,27,53.28
+10162,2003-10-18,10,S18_2325,1932 Model A Ford J-Coupe,Vintage Cars,38,113.15
+10162,2003-10-18,10,S18_2795,1928 Mercedes-Benz SSK,Vintage Cars,48,156.94
+10162,2003-10-18,10,S18_4409,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,39,86.51
+10162,2003-10-18,10,S24_1937,1939 Chevrolet Deluxe Coupe,Vintage Cars,37,27.55
+10162,2003-10-18,10,S24_2022,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,43,38.98
+10162,2003-10-18,10,S24_3969,1936 Mercedes Benz 500k Roadster,Vintage Cars,37,32.82
+10163,2003-10-20,10,S10_1949,1952 Alpine Renault 1300,Classic Cars,21,212.16
+10163,2003-10-20,10,S18_2949,1913 Ford Model T Speedster,Vintage Cars,31,101.31
+10163,2003-10-20,10,S18_2957,1934 Ford V8 Coupe,Vintage Cars,48,59.96
+10163,2003-10-20,10,S18_3136,18th Century Vintage Horse Carriage,Vintage Cars,40,101.58
+10163,2003-10-20,10,S18_3320,1917 Maxwell Touring Car,Vintage Cars,43,80.36
+10163,2003-10-20,10,S24_4258,1936 Chrysler Airflow,Vintage Cars,42,96.42
+10164,2003-10-21,10,S10_4962,1962 LanciaA Delta 16V,Classic Cars,21,143.31
+10164,2003-10-21,10,S12_1666,1958 Setra Bus,Trucks and Buses,49,121.64
+10164,2003-10-21,10,S18_1097,1940 Ford Pickup Truck,Trucks and Buses,36,103.84
+10164,2003-10-21,10,S18_4600,1940s Ford truck,Trucks and Buses,45,107.76
+10164,2003-10-21,10,S18_4668,1939 Cadillac Limousine,Vintage Cars,25,46.29
+10164,2003-10-21,10,S32_1268,1980’s GM Manhattan Express,Trucks and Buses,24,91.49
+10164,2003-10-21,10,S32_3522,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,49,57.53
+10164,2003-10-21,10,S700_2824,1982 Camaro Z28,Classic Cars,39,86.99
+10166,2003-10-21,10,S18_3140,1903 Ford Model A,Vintage Cars,43,136.59
+10166,2003-10-21,10,S18_4522,1904 Buick Runabout,Vintage Cars,26,72.85
+10166,2003-10-21,10,S700_1938,The Mayflower,Ships,29,76.22
+10165,2003-10-22,10,S12_1108,2001 Ferrari Enzo,Classic Cars,44,168.32
+10165,2003-10-22,10,S12_3148,1969 Corvair Monza,Classic Cars,34,123.89
+10165,2003-10-22,10,S12_3891,1969 Ford Falcon,Classic Cars,27,152.26
+10165,2003-10-22,10,S12_4473,1957 Chevy Pickup,Trucks and Buses,48,109.02
+10165,2003-10-22,10,S18_2238,1998 Chrysler Plymouth Prowler,Classic Cars,29,134.26
+10165,2003-10-22,10,S18_2319,1964 Mercedes Tour Bus,Trucks and Buses,46,120.28
+10165,2003-10-22,10,S18_2432,1926 Ford Fire Engine,Trucks and Buses,31,60.77
+10165,2003-10-22,10,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,47,154.1
+10165,2003-10-22,10,S18_3259,Collectable Wooden Train,Trains,50,84.71
+10165,2003-10-22,10,S18_4027,1970 Triumph Spitfire,Classic Cars,28,123.51
+10165,2003-10-22,10,S24_1444,1970 Dodge Coronet,Classic Cars,25,46.82
+10165,2003-10-22,10,S24_2300,1962 Volkswagen Microbus,Trucks and Buses,32,117.57
+10165,2003-10-22,10,S24_2840,1958 Chevy Corvette Limited Edition,Classic Cars,27,31.12
+10165,2003-10-22,10,S24_4048,1992 Porsche Cayenne Turbo Silver,Classic Cars,24,106.45
+10165,2003-10-22,10,S32_2509,1954 Greyhound Scenicruiser,Trucks and Buses,48,50.86
+10165,2003-10-22,10,S32_3207,1950's Chicago Surface Lines Streetcar,Trains,44,55.3
+10165,2003-10-22,10,S50_1392,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,48,106.49
+10165,2003-10-22,10,S50_1514,1962 City of Detroit Streetcar,Trains,38,49.21
+10167,2003-10-23,10,S10_4757,1972 Alfa Romeo GTA,Classic Cars,44,123.76
+10167,2003-10-23,10,S18_1662,1980s Black Hawk Helicopter,Planes,43,141.92
+10167,2003-10-23,10,S18_3029,1999 Yamaha Speed Boat,Ships,46,69.68
+10167,2003-10-23,10,S18_3856,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,34,84.7
+10167,2003-10-23,10,S24_2011,18th century schooner,Ships,33,110.6
+10167,2003-10-23,10,S24_2841,1900s Vintage Bi-Plane,Planes,21,54.81
+10167,2003-10-23,10,S24_3151,1912 Ford Model T Delivery Wagon,Vintage Cars,20,77
+10167,2003-10-23,10,S24_3420,1937 Horch 930V Limousine,Vintage Cars,32,64.44
+10167,2003-10-23,10,S24_3816,1940 Ford Delivery Sedan,Vintage Cars,29,73.8
+10167,2003-10-23,10,S700_1138,The Schooner Bluenose,Ships,43,66
+10167,2003-10-23,10,S700_2047,HMS Bounty,Ships,29,87.8
+10167,2003-10-23,10,S700_2610,The USS Constitution Ship,Ships,46,62.16
+10167,2003-10-23,10,S700_3505,The Titanic,Ships,24,85.14
+10167,2003-10-23,10,S700_3962,The Queen Mary,Ships,28,83.42
+10167,2003-10-23,10,S72_1253,Boeing X-32A JSF,Planes,40,42.71
+10167,2003-10-23,10,S72_3212,Pont Yacht,Ships,38,43.68
+10168,2003-10-28,10,S10_1678,1969 Harley Davidson Ultimate Chopper,Motorcycles,36,94.74
+10168,2003-10-28,10,S10_2016,1996 Moto Guzzi 1100i,Motorcycles,27,97.53
+10168,2003-10-28,10,S10_4698,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,20,160.74
+10168,2003-10-28,10,S18_2581,P-51-D Mustang,Planes,21,75.19
+10168,2003-10-28,10,S18_2625,1936 Harley Davidson El Knucklehead,Motorcycles,46,49.06
+10168,2003-10-28,10,S24_1578,1997 BMW R 1100 S,Motorcycles,50,103.68
+10168,2003-10-28,10,S24_1785,1928 British Royal Navy Airplane,Planes,49,93.01
+10168,2003-10-28,10,S24_2000,1960 BSA Gold Star DBD34,Motorcycles,29,72.36
+10168,2003-10-28,10,S24_3949,Corsair F4U ( Bird Cage),Planes,27,57.32
+10168,2003-10-28,10,S24_4278,1900s Vintage Tri-Plane,Planes,48,68.1
+10168,2003-10-28,10,S32_1374,1997 BMW F650 ST,Motorcycles,28,89.9
+10168,2003-10-28,10,S32_4289,1928 Ford Phaeton Deluxe,Vintage Cars,31,57.78
+10168,2003-10-28,10,S50_1341,1930 Buick Marquette Phaeton,Vintage Cars,48,39.71
+10168,2003-10-28,10,S700_1691,American Airlines: B767-300,Planes,28,91.34
+10168,2003-10-28,10,S700_2466,America West Airlines B757-200,Planes,31,87.75
+10168,2003-10-28,10,S700_2834,ATA: B757-300,Planes,36,94.92
+10168,2003-10-28,10,S700_3167,F/A 18 Hornet 1/72,Planes,48,72
+10168,2003-10-28,10,S700_4002,American Airlines: MD-11S,Planes,39,67.37
+10169,2003-11-04,11,S12_1099,1968 Ford Mustang,Classic Cars,30,163.44
+10169,2003-11-04,11,S12_2823,2002 Suzuki XREO,Motorcycles,35,126.52
+10169,2003-11-04,11,S12_3990,1970 Plymouth Hemi Cuda,Classic Cars,36,71.82
+10169,2003-11-04,11,S18_3278,1969 Dodge Super Bee,Classic Cars,32,65.13
+10169,2003-11-04,11,S18_3482,1976 Ford Gran Torino,Classic Cars,36,136.7
+10169,2003-11-04,11,S18_3782,1957 Vespa GS150,Motorcycles,38,52.84
+10169,2003-11-04,11,S18_4721,1957 Corvette Convertible,Classic Cars,33,120.53
+10169,2003-11-04,11,S24_2360,1982 Ducati 900 Monster,Motorcycles,38,66.49
+10169,2003-11-04,11,S24_3371,1971 Alpine Renault 1600s,Classic Cars,34,53.27
+10169,2003-11-04,11,S24_4620,1961 Chevrolet Impala,Classic Cars,24,77.61
+10169,2003-11-04,11,S32_2206,1982 Ducati 996 R,Motorcycles,26,37.01
+10169,2003-11-04,11,S32_4485,1974 Ducati 350 Mk3 Desmo,Motorcycles,34,83.68
+10169,2003-11-04,11,S50_4713,2002 Yamaha YZR M1,Motorcycles,48,75.66
+10170,2003-11-04,11,S12_3380,1968 Dodge Charger,Classic Cars,47,116.27
+10170,2003-11-04,11,S12_4675,1969 Dodge Charger,Classic Cars,41,93.28
+10170,2003-11-04,11,S18_1889,1948 Porsche 356-A Roadster,Classic Cars,20,70.07
+10170,2003-11-04,11,S24_3856,1956 Porsche 356A Coupe,Classic Cars,34,130.6
+10171,2003-11-05,11,S18_1129,1993 Mazda RX-7,Classic Cars,35,134.46
+10171,2003-11-05,11,S18_1984,1995 Honda Civic,Classic Cars,35,128.03
+10171,2003-11-05,11,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,39,165.95
+10171,2003-11-05,11,S24_2972,1982 Lamborghini Diablo,Classic Cars,36,34.74
+10172,2003-11-05,11,S18_1589,1965 Aston Martin DB5,Classic Cars,42,109.51
+10172,2003-11-05,11,S18_2870,1999 Indy 500 Monte Carlo SS,Classic Cars,39,117.48
+10172,2003-11-05,11,S18_3685,1948 Porsche Type 356 Roadster,Classic Cars,48,139.87
+10172,2003-11-05,11,S24_1046,1970 Chevy Chevelle SS 454,Classic Cars,32,61
+10172,2003-11-05,11,S24_1628,1966 Shelby Cobra 427 S/C,Classic Cars,34,43.27
+10172,2003-11-05,11,S24_2766,1949 Jaguar XK 120,Classic Cars,22,79.97
+10172,2003-11-05,11,S24_3191,1969 Chevrolet Camaro Z28,Classic Cars,24,77.91
+10172,2003-11-05,11,S24_3432,2002 Chevy Corvette,Classic Cars,22,87.81
+10173,2003-11-05,11,S18_1342,1937 Lincoln Berline,Vintage Cars,43,101.71
+10173,2003-11-05,11,S18_1367,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,48,51.75
+10173,2003-11-05,11,S18_1749,1917 Grand Touring Sedan,Vintage Cars,24,168.3
+10173,2003-11-05,11,S18_2248,1911 Ford Town Car,Vintage Cars,26,55.09
+10173,2003-11-05,11,S18_2325,1932 Model A Ford J-Coupe,Vintage Cars,31,127.13
+10173,2003-11-05,11,S18_2795,1928 Mercedes-Benz SSK,Vintage Cars,22,140.06
+10173,2003-11-05,11,S18_2957,1934 Ford V8 Coupe,Vintage Cars,28,56.84
+10173,2003-11-05,11,S18_3136,18th Century Vintage Horse Carriage,Vintage Cars,31,86.92
+10173,2003-11-05,11,S18_3320,1917 Maxwell Touring Car,Vintage Cars,29,90.28
+10173,2003-11-05,11,S18_4409,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,21,77.31
+10173,2003-11-05,11,S18_4933,1957 Ford Thunderbird,Classic Cars,39,58.44
+10173,2003-11-05,11,S24_1937,1939 Chevrolet Deluxe Coupe,Vintage Cars,31,29.87
+10173,2003-11-05,11,S24_2022,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,27,39.42
+10173,2003-11-05,11,S24_2887,1952 Citroen-15CV,Classic Cars,23,98.65
+10173,2003-11-05,11,S24_3969,1936 Mercedes Benz 500k Roadster,Vintage Cars,35,35.7
+10173,2003-11-05,11,S24_4258,1936 Chrysler Airflow,Vintage Cars,22,93.49
+10174,2003-11-06,11,S10_1949,1952 Alpine Renault 1300,Classic Cars,34,207.87
+10174,2003-11-06,11,S12_1666,1958 Setra Bus,Trucks and Buses,43,113.44
+10174,2003-11-06,11,S18_1097,1940 Ford Pickup Truck,Trucks and Buses,48,108.5
+10174,2003-11-06,11,S18_2949,1913 Ford Model T Speedster,Vintage Cars,46,100.3
+10174,2003-11-06,11,S18_4668,1939 Cadillac Limousine,Vintage Cars,49,44.27
+10175,2003-11-06,11,S10_4962,1962 LanciaA Delta 16V,Classic Cars,33,119.67
+10175,2003-11-06,11,S12_4473,1957 Chevy Pickup,Trucks and Buses,26,109.02
+10175,2003-11-06,11,S18_2319,1964 Mercedes Tour Bus,Trucks and Buses,48,101.87
+10175,2003-11-06,11,S18_2432,1926 Ford Fire Engine,Trucks and Buses,41,59.55
+10175,2003-11-06,11,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,29,150.71
+10175,2003-11-06,11,S18_4600,1940s Ford truck,Trucks and Buses,47,102.92
+10175,2003-11-06,11,S24_2300,1962 Volkswagen Microbus,Trucks and Buses,28,121.4
+10175,2003-11-06,11,S24_2840,1958 Chevy Corvette Limited Edition,Classic Cars,37,32.18
+10175,2003-11-06,11,S32_1268,1980’s GM Manhattan Express,Trucks and Buses,22,89.57
+10175,2003-11-06,11,S32_2509,1954 Greyhound Scenicruiser,Trucks and Buses,50,50.86
+10175,2003-11-06,11,S32_3522,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,29,56.24
+10175,2003-11-06,11,S700_2824,1982 Camaro Z28,Classic Cars,42,80.92
+10176,2003-11-06,11,S12_1108,2001 Ferrari Enzo,Classic Cars,33,166.24
+10176,2003-11-06,11,S12_3148,1969 Corvair Monza,Classic Cars,47,145.04
+10176,2003-11-06,11,S12_3891,1969 Ford Falcon,Classic Cars,50,160.91
+10176,2003-11-06,11,S18_2238,1998 Chrysler Plymouth Prowler,Classic Cars,20,139.17
+10176,2003-11-06,11,S18_4027,1970 Triumph Spitfire,Classic Cars,36,140.75
+10176,2003-11-06,11,S24_1444,1970 Dodge Coronet,Classic Cars,27,55.49
+10176,2003-11-06,11,S24_4048,1992 Porsche Cayenne Turbo Silver,Classic Cars,29,101.72
+10176,2003-11-06,11,S32_3207,1950's Chicago Surface Lines Streetcar,Trains,22,62.14
+10176,2003-11-06,11,S50_1392,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,23,109.96
+10176,2003-11-06,11,S50_1514,1962 City of Detroit Streetcar,Trains,38,52.14
+10177,2003-11-07,11,S18_3140,1903 Ford Model A,Vintage Cars,23,113.37
+10177,2003-11-07,11,S18_3259,Collectable Wooden Train,Trains,29,92.77
+10177,2003-11-07,11,S18_4522,1904 Buick Runabout,Vintage Cars,35,82.5
+10177,2003-11-07,11,S24_2011,18th century schooner,Ships,50,115.52
+10177,2003-11-07,11,S24_3151,1912 Ford Model T Delivery Wagon,Vintage Cars,45,79.66
+10177,2003-11-07,11,S700_1138,The Schooner Bluenose,Ships,24,58.67
+10177,2003-11-07,11,S700_1938,The Mayflower,Ships,31,77.95
+10177,2003-11-07,11,S700_2610,The USS Constitution Ship,Ships,32,64.33
+10177,2003-11-07,11,S700_3505,The Titanic,Ships,44,88.15
+10177,2003-11-07,11,S700_3962,The Queen Mary,Ships,24,83.42
+10177,2003-11-07,11,S72_3212,Pont Yacht,Ships,40,52.96
+10178,2003-11-08,11,S10_4757,1972 Alfa Romeo GTA,Classic Cars,24,131.92
+10178,2003-11-08,11,S18_1662,1980s Black Hawk Helicopter,Planes,42,127.73
+10178,2003-11-08,11,S18_3029,1999 Yamaha Speed Boat,Ships,41,70.54
+10178,2003-11-08,11,S18_3856,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,48,104.81
+10178,2003-11-08,11,S24_2841,1900s Vintage Bi-Plane,Planes,34,67.82
+10178,2003-11-08,11,S24_3420,1937 Horch 930V Limousine,Vintage Cars,27,65.75
+10178,2003-11-08,11,S24_3816,1940 Ford Delivery Sedan,Vintage Cars,21,68.77
+10178,2003-11-08,11,S24_3949,Corsair F4U ( Bird Cage),Planes,30,64.15
+10178,2003-11-08,11,S700_2047,HMS Bounty,Ships,34,86.9
+10178,2003-11-08,11,S700_2466,America West Airlines B757-200,Planes,22,91.74
+10178,2003-11-08,11,S700_4002,American Airlines: MD-11S,Planes,45,68.11
+10178,2003-11-08,11,S72_1253,Boeing X-32A JSF,Planes,45,41.71
+10179,2003-11-11,11,S18_2581,P-51-D Mustang,Planes,24,82.79
+10179,2003-11-11,11,S24_1785,1928 British Royal Navy Airplane,Planes,47,105.04
+10179,2003-11-11,11,S24_4278,1900s Vintage Tri-Plane,Planes,27,66.65
+10179,2003-11-11,11,S32_1374,1997 BMW F650 ST,Motorcycles,45,86.9
+10179,2003-11-11,11,S32_4289,1928 Ford Phaeton Deluxe,Vintage Cars,24,63.97
+10179,2003-11-11,11,S50_1341,1930 Buick Marquette Phaeton,Vintage Cars,34,43.2
+10179,2003-11-11,11,S700_1691,American Airlines: B767-300,Planes,23,75.81
+10179,2003-11-11,11,S700_2834,ATA: B757-300,Planes,25,98.48
+10179,2003-11-11,11,S700_3167,F/A 18 Hornet 1/72,Planes,39,80
+10180,2003-11-11,11,S10_1678,1969 Harley Davidson Ultimate Chopper,Motorcycles,29,76.56
+10180,2003-11-11,11,S10_2016,1996 Moto Guzzi 1100i,Motorcycles,42,99.91
+10180,2003-11-11,11,S10_4698,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,41,164.61
+10180,2003-11-11,11,S12_2823,2002 Suzuki XREO,Motorcycles,40,131.04
+10180,2003-11-11,11,S18_2625,1936 Harley Davidson El Knucklehead,Motorcycles,25,48.46
+10180,2003-11-11,11,S18_3782,1957 Vespa GS150,Motorcycles,21,59.06
+10180,2003-11-11,11,S18_4721,1957 Corvette Convertible,Classic Cars,44,147.31
+10180,2003-11-11,11,S24_1578,1997 BMW R 1100 S,Motorcycles,48,98.05
+10180,2003-11-11,11,S24_2000,1960 BSA Gold Star DBD34,Motorcycles,28,61.7
+10180,2003-11-11,11,S24_2360,1982 Ducati 900 Monster,Motorcycles,35,60.95
+10180,2003-11-11,11,S24_4620,1961 Chevrolet Impala,Classic Cars,28,68.71
+10180,2003-11-11,11,S32_2206,1982 Ducati 996 R,Motorcycles,34,33.39
+10180,2003-11-11,11,S32_4485,1974 Ducati 350 Mk3 Desmo,Motorcycles,22,102.05
+10180,2003-11-11,11,S50_4713,2002 Yamaha YZR M1,Motorcycles,21,74.85
+10181,2003-11-12,11,S12_1099,1968 Ford Mustang,Classic Cars,27,155.66
+10181,2003-11-12,11,S12_3380,1968 Dodge Charger,Classic Cars,28,113.92
+10181,2003-11-12,11,S12_3990,1970 Plymouth Hemi Cuda,Classic Cars,20,67.03
+10181,2003-11-12,11,S12_4675,1969 Dodge Charger,Classic Cars,36,107.1
+10181,2003-11-12,11,S18_1129,1993 Mazda RX-7,Classic Cars,44,124.56
+10181,2003-11-12,11,S18_1589,1965 Aston Martin DB5,Classic Cars,42,124.44
+10181,2003-11-12,11,S18_1889,1948 Porsche 356-A Roadster,Classic Cars,22,74.69
+10181,2003-11-12,11,S18_1984,1995 Honda Civic,Classic Cars,21,129.45
+10181,2003-11-12,11,S18_2870,1999 Indy 500 Monte Carlo SS,Classic Cars,27,130.68
+10181,2003-11-12,11,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,45,147.33
+10181,2003-11-12,11,S18_3278,1969 Dodge Super Bee,Classic Cars,30,73.17
+10181,2003-11-12,11,S18_3482,1976 Ford Gran Torino,Classic Cars,22,120.53
+10181,2003-11-12,11,S18_3685,1948 Porsche Type 356 Roadster,Classic Cars,39,137.04
+10181,2003-11-12,11,S24_1628,1966 Shelby Cobra 427 S/C,Classic Cars,34,45.28
+10181,2003-11-12,11,S24_2972,1982 Lamborghini Diablo,Classic Cars,37,32.85
+10181,2003-11-12,11,S24_3371,1971 Alpine Renault 1600s,Classic Cars,23,54.49
+10181,2003-11-12,11,S24_3856,1956 Porsche 356A Coupe,Classic Cars,25,122.17
+10182,2003-11-12,11,S18_1342,1937 Lincoln Berline,Vintage Cars,25,83.22
+10182,2003-11-12,11,S18_1367,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,32,44.21
+10182,2003-11-12,11,S18_1749,1917 Grand Touring Sedan,Vintage Cars,44,159.8
+10182,2003-11-12,11,S18_2248,1911 Ford Town Car,Vintage Cars,38,54.49
+10182,2003-11-12,11,S18_2325,1932 Model A Ford J-Coupe,Vintage Cars,20,105.52
+10182,2003-11-12,11,S18_2795,1928 Mercedes-Benz SSK,Vintage Cars,21,135
+10182,2003-11-12,11,S18_3320,1917 Maxwell Touring Car,Vintage Cars,33,86.31
+10182,2003-11-12,11,S18_4409,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,36,88.35
+10182,2003-11-12,11,S18_4933,1957 Ford Thunderbird,Classic Cars,44,61.29
+10182,2003-11-12,11,S24_1046,1970 Chevy Chevelle SS 454,Classic Cars,47,63.2
+10182,2003-11-12,11,S24_1937,1939 Chevrolet Deluxe Coupe,Vintage Cars,39,31.86
+10182,2003-11-12,11,S24_2022,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,31,39.87
+10182,2003-11-12,11,S24_2766,1949 Jaguar XK 120,Classic Cars,36,87.24
+10182,2003-11-12,11,S24_2887,1952 Citroen-15CV,Classic Cars,20,116.27
+10182,2003-11-12,11,S24_3191,1969 Chevrolet Camaro Z28,Classic Cars,33,73.62
+10182,2003-11-12,11,S24_3432,2002 Chevy Corvette,Classic Cars,49,95.3
+10182,2003-11-12,11,S24_3969,1936 Mercedes Benz 500k Roadster,Vintage Cars,23,34.88
+10183,2003-11-13,11,S10_1949,1952 Alpine Renault 1300,Classic Cars,23,180.01
+10183,2003-11-13,11,S10_4962,1962 LanciaA Delta 16V,Classic Cars,28,127.06
+10183,2003-11-13,11,S12_1666,1958 Setra Bus,Trucks and Buses,41,114.8
+10183,2003-11-13,11,S18_1097,1940 Ford Pickup Truck,Trucks and Buses,21,108.5
+10183,2003-11-13,11,S18_2949,1913 Ford Model T Speedster,Vintage Cars,37,91.18
+10183,2003-11-13,11,S18_2957,1934 Ford V8 Coupe,Vintage Cars,39,51.22
+10183,2003-11-13,11,S18_3136,18th Century Vintage Horse Carriage,Vintage Cars,22,90.06
+10183,2003-11-13,11,S18_4600,1940s Ford truck,Trucks and Buses,21,118.66
+10183,2003-11-13,11,S18_4668,1939 Cadillac Limousine,Vintage Cars,40,42.26
+10183,2003-11-13,11,S24_4258,1936 Chrysler Airflow,Vintage Cars,47,81.81
+10183,2003-11-13,11,S32_3522,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,49,52.36
+10183,2003-11-13,11,S700_2824,1982 Camaro Z28,Classic Cars,23,85.98
+10184,2003-11-14,11,S12_4473,1957 Chevy Pickup,Trucks and Buses,37,105.47
+10184,2003-11-14,11,S18_2238,1998 Chrysler Plymouth Prowler,Classic Cars,46,145.72
+10184,2003-11-14,11,S18_2319,1964 Mercedes Tour Bus,Trucks and Buses,46,119.05
+10184,2003-11-14,11,S18_2432,1926 Ford Fire Engine,Trucks and Buses,44,60.77
+10184,2003-11-14,11,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,28,165.95
+10184,2003-11-14,11,S24_1444,1970 Dodge Coronet,Classic Cars,31,57.22
+10184,2003-11-14,11,S24_2300,1962 Volkswagen Microbus,Trucks and Buses,24,117.57
+10184,2003-11-14,11,S24_2840,1958 Chevy Corvette Limited Edition,Classic Cars,42,30.06
+10184,2003-11-14,11,S24_4048,1992 Porsche Cayenne Turbo Silver,Classic Cars,49,114.73
+10184,2003-11-14,11,S32_1268,1980’s GM Manhattan Express,Trucks and Buses,46,84.75
+10184,2003-11-14,11,S32_2509,1954 Greyhound Scenicruiser,Trucks and Buses,33,52.49
+10184,2003-11-14,11,S32_3207,1950's Chicago Surface Lines Streetcar,Trains,48,59.03
+10184,2003-11-14,11,S50_1392,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,45,92.6
+10185,2003-11-14,11,S12_1108,2001 Ferrari Enzo,Classic Cars,21,195.33
+10185,2003-11-14,11,S12_3148,1969 Corvair Monza,Classic Cars,33,146.55
+10185,2003-11-14,11,S12_3891,1969 Ford Falcon,Classic Cars,43,147.07
+10185,2003-11-14,11,S18_3140,1903 Ford Model A,Vintage Cars,28,124.3
+10185,2003-11-14,11,S18_3259,Collectable Wooden Train,Trains,49,94.79
+10185,2003-11-14,11,S18_4027,1970 Triumph Spitfire,Classic Cars,39,127.82
+10185,2003-11-14,11,S18_4522,1904 Buick Runabout,Vintage Cars,47,87.77
+10185,2003-11-14,11,S24_2011,18th century schooner,Ships,30,105.69
+10185,2003-11-14,11,S24_3151,1912 Ford Model T Delivery Wagon,Vintage Cars,33,83.2
+10185,2003-11-14,11,S50_1514,1962 City of Detroit Streetcar,Trains,20,46.86
+10185,2003-11-14,11,S700_1138,The Schooner Bluenose,Ships,21,64.67
+10185,2003-11-14,11,S700_1938,The Mayflower,Ships,30,79.68
+10185,2003-11-14,11,S700_2610,The USS Constitution Ship,Ships,39,61.44
+10185,2003-11-14,11,S700_3505,The Titanic,Ships,37,99.17
+10185,2003-11-14,11,S700_3962,The Queen Mary,Ships,22,93.35
+10185,2003-11-14,11,S72_3212,Pont Yacht,Ships,28,47.5
+10186,2003-11-14,11,S10_4757,1972 Alfa Romeo GTA,Classic Cars,26,108.8
+10186,2003-11-14,11,S18_1662,1980s Black Hawk Helicopter,Planes,32,137.19
+10186,2003-11-14,11,S18_3029,1999 Yamaha Speed Boat,Ships,32,73.12
+10186,2003-11-14,11,S18_3856,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,46,98.46
+10186,2003-11-14,11,S24_2841,1900s Vintage Bi-Plane,Planes,22,60.29
+10186,2003-11-14,11,S24_3420,1937 Horch 930V Limousine,Vintage Cars,21,59.83
+10186,2003-11-14,11,S24_3816,1940 Ford Delivery Sedan,Vintage Cars,36,68.77
+10186,2003-11-14,11,S700_2047,HMS Bounty,Ships,24,80.56
+10186,2003-11-14,11,S72_1253,Boeing X-32A JSF,Planes,28,42.71
+10187,2003-11-15,11,S18_2581,P-51-D Mustang,Planes,45,70.12
+10187,2003-11-15,11,S24_1785,1928 British Royal Navy Airplane,Planes,46,96.29
+10187,2003-11-15,11,S24_3949,Corsair F4U ( Bird Cage),Planes,43,55.96
+10187,2003-11-15,11,S24_4278,1900s Vintage Tri-Plane,Planes,33,64.48
+10187,2003-11-15,11,S32_4289,1928 Ford Phaeton Deluxe,Vintage Cars,31,61.22
+10187,2003-11-15,11,S50_1341,1930 Buick Marquette Phaeton,Vintage Cars,41,39.71
+10187,2003-11-15,11,S700_1691,American Airlines: B767-300,Planes,34,84.95
+10187,2003-11-15,11,S700_2466,America West Airlines B757-200,Planes,44,95.73
+10187,2003-11-15,11,S700_3167,F/A 18 Hornet 1/72,Planes,34,72
+10187,2003-11-15,11,S700_4002,American Airlines: MD-11S,Planes,44,70.33
+10188,2003-11-18,11,S10_1678,1969 Harley Davidson Ultimate Chopper,Motorcycles,48,95.7
+10188,2003-11-18,11,S10_2016,1996 Moto Guzzi 1100i,Motorcycles,38,111.8
+10188,2003-11-18,11,S10_4698,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,45,182.04
+10188,2003-11-18,11,S18_2625,1936 Harley Davidson El Knucklehead,Motorcycles,32,52.09
+10188,2003-11-18,11,S24_1578,1997 BMW R 1100 S,Motorcycles,25,95.8
+10188,2003-11-18,11,S24_2000,1960 BSA Gold Star DBD34,Motorcycles,40,61.7
+10188,2003-11-18,11,S32_1374,1997 BMW F650 ST,Motorcycles,44,81.91
+10188,2003-11-18,11,S700_2834,ATA: B757-300,Planes,29,96.11
+10189,2003-11-18,11,S12_2823,2002 Suzuki XREO,Motorcycles,28,138.57
+10190,2003-11-19,11,S24_2360,1982 Ducati 900 Monster,Motorcycles,42,58.87
+10190,2003-11-19,11,S32_2206,1982 Ducati 996 R,Motorcycles,46,38.62
+10190,2003-11-19,11,S32_4485,1974 Ducati 350 Mk3 Desmo,Motorcycles,42,89.8
+10190,2003-11-19,11,S50_4713,2002 Yamaha YZR M1,Motorcycles,40,67.53
+10191,2003-11-20,11,S12_1099,1968 Ford Mustang,Classic Cars,21,155.66
+10191,2003-11-20,11,S12_3380,1968 Dodge Charger,Classic Cars,40,104.52
+10191,2003-11-20,11,S12_3990,1970 Plymouth Hemi Cuda,Classic Cars,30,70.22
+10191,2003-11-20,11,S18_3278,1969 Dodge Super Bee,Classic Cars,36,75.59
+10191,2003-11-20,11,S18_3482,1976 Ford Gran Torino,Classic Cars,23,119.06
+10191,2003-11-20,11,S18_3782,1957 Vespa GS150,Motorcycles,43,60.93
+10191,2003-11-20,11,S18_4721,1957 Corvette Convertible,Classic Cars,32,136.9
+10191,2003-11-20,11,S24_3371,1971 Alpine Renault 1600s,Classic Cars,48,53.27
+10191,2003-11-20,11,S24_4620,1961 Chevrolet Impala,Classic Cars,44,77.61
+10192,2003-11-20,11,S12_4675,1969 Dodge Charger,Classic Cars,27,99.04
+10192,2003-11-20,11,S18_1129,1993 Mazda RX-7,Classic Cars,22,140.12
+10192,2003-11-20,11,S18_1589,1965 Aston Martin DB5,Classic Cars,29,100.8
+10192,2003-11-20,11,S18_1889,1948 Porsche 356-A Roadster,Classic Cars,45,70.84
+10192,2003-11-20,11,S18_1984,1995 Honda Civic,Classic Cars,47,128.03
+10192,2003-11-20,11,S18_2870,1999 Indy 500 Monte Carlo SS,Classic Cars,38,110.88
+10192,2003-11-20,11,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,26,137.17
+10192,2003-11-20,11,S18_3685,1948 Porsche Type 356 Roadster,Classic Cars,45,125.74
+10192,2003-11-20,11,S24_1046,1970 Chevy Chevelle SS 454,Classic Cars,37,72.02
+10192,2003-11-20,11,S24_1628,1966 Shelby Cobra 427 S/C,Classic Cars,47,49.3
+10192,2003-11-20,11,S24_2766,1949 Jaguar XK 120,Classic Cars,46,86.33
+10192,2003-11-20,11,S24_2887,1952 Citroen-15CV,Classic Cars,23,112.74
+10192,2003-11-20,11,S24_2972,1982 Lamborghini Diablo,Classic Cars,30,33.23
+10192,2003-11-20,11,S24_3191,1969 Chevrolet Camaro Z28,Classic Cars,32,69.34
+10192,2003-11-20,11,S24_3432,2002 Chevy Corvette,Classic Cars,46,93.16
+10192,2003-11-20,11,S24_3856,1956 Porsche 356A Coupe,Classic Cars,45,112.34
+10193,2003-11-21,11,S18_1342,1937 Lincoln Berline,Vintage Cars,28,92.47
+10193,2003-11-21,11,S18_1367,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,46,46.36
+10193,2003-11-21,11,S18_1749,1917 Grand Touring Sedan,Vintage Cars,21,153
+10193,2003-11-21,11,S18_2248,1911 Ford Town Car,Vintage Cars,42,60.54
+10193,2003-11-21,11,S18_2325,1932 Model A Ford J-Coupe,Vintage Cars,44,115.69
+10193,2003-11-21,11,S18_2795,1928 Mercedes-Benz SSK,Vintage Cars,22,143.44
+10193,2003-11-21,11,S18_2949,1913 Ford Model T Speedster,Vintage Cars,28,87.13
+10193,2003-11-21,11,S18_2957,1934 Ford V8 Coupe,Vintage Cars,24,53.09
+10193,2003-11-21,11,S18_3136,18th Century Vintage Horse Carriage,Vintage Cars,23,97.39
+10193,2003-11-21,11,S18_3320,1917 Maxwell Touring Car,Vintage Cars,32,79.37
+10193,2003-11-21,11,S18_4409,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,24,92.03
+10193,2003-11-21,11,S18_4933,1957 Ford Thunderbird,Classic Cars,25,66.28
+10193,2003-11-21,11,S24_1937,1939 Chevrolet Deluxe Coupe,Vintage Cars,26,32.19
+10193,2003-11-21,11,S24_2022,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,20,44.8
+10193,2003-11-21,11,S24_3969,1936 Mercedes Benz 500k Roadster,Vintage Cars,22,38.16
+10193,2003-11-21,11,S24_4258,1936 Chrysler Airflow,Vintage Cars,20,92.52
+10194,2003-11-25,11,S10_1949,1952 Alpine Renault 1300,Classic Cars,42,203.59
+10194,2003-11-25,11,S10_4962,1962 LanciaA Delta 16V,Classic Cars,26,134.44
+10194,2003-11-25,11,S12_1666,1958 Setra Bus,Trucks and Buses,38,124.37
+10194,2003-11-25,11,S18_1097,1940 Ford Pickup Truck,Trucks and Buses,21,103.84
+10194,2003-11-25,11,S18_2432,1926 Ford Fire Engine,Trucks and Buses,45,51.05
+10194,2003-11-25,11,S18_4600,1940s Ford truck,Trucks and Buses,32,113.82
+10194,2003-11-25,11,S18_4668,1939 Cadillac Limousine,Vintage Cars,41,47.79
+10194,2003-11-25,11,S24_2300,1962 Volkswagen Microbus,Trucks and Buses,49,112.46
+10194,2003-11-25,11,S32_1268,1980’s GM Manhattan Express,Trucks and Buses,37,77.05
+10194,2003-11-25,11,S32_3522,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,39,61.41
+10194,2003-11-25,11,S700_2824,1982 Camaro Z28,Classic Cars,26,80.92
+10195,2003-11-25,11,S12_4473,1957 Chevy Pickup,Trucks and Buses,49,118.5
+10195,2003-11-25,11,S18_2238,1998 Chrysler Plymouth Prowler,Classic Cars,27,139.17
+10195,2003-11-25,11,S18_2319,1964 Mercedes Tour Bus,Trucks and Buses,35,112.91
+10195,2003-11-25,11,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,50,150.71
+10195,2003-11-25,11,S24_1444,1970 Dodge Coronet,Classic Cars,44,54.33
+10195,2003-11-25,11,S24_2840,1958 Chevy Corvette Limited Edition,Classic Cars,32,31.82
+10195,2003-11-25,11,S24_4048,1992 Porsche Cayenne Turbo Silver,Classic Cars,34,95.81
+10195,2003-11-25,11,S32_2509,1954 Greyhound Scenicruiser,Trucks and Buses,32,51.95
+10195,2003-11-25,11,S32_3207,1950's Chicago Surface Lines Streetcar,Trains,33,59.03
+10195,2003-11-25,11,S50_1392,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,49,97.23
+10196,2003-11-26,11,S12_1108,2001 Ferrari Enzo,Classic Cars,47,203.64
+10196,2003-11-26,11,S12_3148,1969 Corvair Monza,Classic Cars,24,151.08
+10196,2003-11-26,11,S12_3891,1969 Ford Falcon,Classic Cars,38,147.07
+10196,2003-11-26,11,S18_3140,1903 Ford Model A,Vintage Cars,49,127.03
+10196,2003-11-26,11,S18_3259,Collectable Wooden Train,Trains,35,81.68
+10196,2003-11-26,11,S18_4027,1970 Triumph Spitfire,Classic Cars,27,126.39
+10196,2003-11-26,11,S50_1514,1962 City of Detroit Streetcar,Trains,46,56.82
+10196,2003-11-26,11,S700_1938,The Mayflower,Ships,50,84.88
+10197,2003-11-26,11,S10_4757,1972 Alfa Romeo GTA,Classic Cars,45,118.32
+10197,2003-11-26,11,S18_3029,1999 Yamaha Speed Boat,Ships,46,83.44
+10197,2003-11-26,11,S18_3856,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,22,85.75
+10197,2003-11-26,11,S18_4522,1904 Buick Runabout,Vintage Cars,50,78.99
+10197,2003-11-26,11,S24_2011,18th century schooner,Ships,41,109.37
+10197,2003-11-26,11,S24_3151,1912 Ford Model T Delivery Wagon,Vintage Cars,47,83.2
+10197,2003-11-26,11,S24_3816,1940 Ford Delivery Sedan,Vintage Cars,22,67.93
+10197,2003-11-26,11,S700_1138,The Schooner Bluenose,Ships,23,60
+10197,2003-11-26,11,S700_2047,HMS Bounty,Ships,24,78.75
+10197,2003-11-26,11,S700_2610,The USS Constitution Ship,Ships,50,66.5
+10197,2003-11-26,11,S700_3505,The Titanic,Ships,27,100.17
+10197,2003-11-26,11,S700_3962,The Queen Mary,Ships,35,88.39
+10197,2003-11-26,11,S72_1253,Boeing X-32A JSF,Planes,29,39.73
+10197,2003-11-26,11,S72_3212,Pont Yacht,Ships,42,48.59
+10198,2003-11-27,11,S18_1662,1980s Black Hawk Helicopter,Planes,42,149.81
+10198,2003-11-27,11,S24_2841,1900s Vintage Bi-Plane,Planes,48,60.97
+10198,2003-11-27,11,S24_3420,1937 Horch 930V Limousine,Vintage Cars,27,61.81
+10198,2003-11-27,11,S24_3949,Corsair F4U ( Bird Cage),Planes,43,65.51
+10198,2003-11-27,11,S700_2466,America West Airlines B757-200,Planes,42,94.73
+10198,2003-11-27,11,S700_4002,American Airlines: MD-11S,Planes,40,74.03
+10199,2003-12-01,12,S50_1341,1930 Buick Marquette Phaeton,Vintage Cars,29,37.97
+10199,2003-12-01,12,S700_1691,American Airlines: B767-300,Planes,48,81.29
+10199,2003-12-01,12,S700_3167,F/A 18 Hornet 1/72,Planes,38,70.4
+10200,2003-12-01,12,S18_2581,P-51-D Mustang,Planes,28,74.34
+10200,2003-12-01,12,S24_1785,1928 British Royal Navy Airplane,Planes,33,99.57
+10200,2003-12-01,12,S24_4278,1900s Vintage Tri-Plane,Planes,39,70.28
+10200,2003-12-01,12,S32_1374,1997 BMW F650 ST,Motorcycles,35,80.91
+10200,2003-12-01,12,S32_4289,1928 Ford Phaeton Deluxe,Vintage Cars,27,65.35
+10200,2003-12-01,12,S700_2834,ATA: B757-300,Planes,39,115.09
+10201,2003-12-01,12,S10_1678,1969 Harley Davidson Ultimate Chopper,Motorcycles,22,82.3
+10201,2003-12-01,12,S10_2016,1996 Moto Guzzi 1100i,Motorcycles,24,116.56
+10201,2003-12-01,12,S10_4698,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,49,191.72
+10201,2003-12-01,12,S12_2823,2002 Suzuki XREO,Motorcycles,25,126.52
+10201,2003-12-01,12,S18_2625,1936 Harley Davidson El Knucklehead,Motorcycles,30,48.46
+10201,2003-12-01,12,S24_1578,1997 BMW R 1100 S,Motorcycles,39,93.54
+10201,2003-12-01,12,S24_2000,1960 BSA Gold Star DBD34,Motorcycles,25,66.27
+10202,2003-12-02,12,S18_3782,1957 Vespa GS150,Motorcycles,30,55.33
+10202,2003-12-02,12,S18_4721,1957 Corvette Convertible,Classic Cars,43,124.99
+10202,2003-12-02,12,S24_2360,1982 Ducati 900 Monster,Motorcycles,50,56.1
+10202,2003-12-02,12,S24_4620,1961 Chevrolet Impala,Classic Cars,50,75.18
+10202,2003-12-02,12,S32_2206,1982 Ducati 996 R,Motorcycles,27,33.39
+10202,2003-12-02,12,S32_4485,1974 Ducati 350 Mk3 Desmo,Motorcycles,31,81.64
+10202,2003-12-02,12,S50_4713,2002 Yamaha YZR M1,Motorcycles,40,79.73
+10203,2003-12-02,12,S12_1099,1968 Ford Mustang,Classic Cars,20,161.49
+10203,2003-12-02,12,S12_3380,1968 Dodge Charger,Classic Cars,20,111.57
+10203,2003-12-02,12,S12_3990,1970 Plymouth Hemi Cuda,Classic Cars,44,63.84
+10203,2003-12-02,12,S12_4675,1969 Dodge Charger,Classic Cars,47,115.16
+10203,2003-12-02,12,S18_1889,1948 Porsche 356-A Roadster,Classic Cars,45,73.15
+10203,2003-12-02,12,S18_3232,1992 Ferrari 360 Spider red,Classic Cars,48,157.49
+10203,2003-12-02,12,S18_3278,1969 Dodge Super Bee,Classic Cars,33,66.74
+10203,2003-12-02,12,S18_3482,1976 Ford Gran Torino,Classic Cars,32,127.88
